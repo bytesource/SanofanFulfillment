@@ -1,0 +1,8 @@
+.fake
+.ionide
+.vscode/
+.vs/
+bin/
+obj/
+[Pp]layground/
+Credentials.fs
