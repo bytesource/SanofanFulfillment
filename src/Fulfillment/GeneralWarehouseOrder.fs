@@ -13,6 +13,9 @@ module Common =
     module CountryCode = 
         
         /// Might fail because we don't have all countries implemented yet
+        /// Also, country names might change over time, 
+        /// so we should always return a Result.
+        /// https://github.com/woocommerce/woocommerce/blob/trunk/i18n/countries.php
         let validate(codeString: string) = 
             let codeToUpper = codeString.ToUpper()
             match codeToUpper with
@@ -62,10 +65,20 @@ module OrderStatus =
         // Currently only using built-in and custom order status
         // from WooCommerce.
         match input with 
-        | 
+        | "processing" -> Ok Processing
+        | "pending-shipment" -> Ok PendingShipment
+        | _ -> 
+            let msg = $"Order {int orderId}: Unknown status '{input}'"
+            Error [ msg ]
 
 
+type OrderTotal = private OrderTotal of float
+with
+    static member op_Explicit(OrderTotal value) = float value
 
+module OrderTotal = 
+
+    let create input = OrderTotal input
 
 
 // Address
@@ -76,46 +89,6 @@ module Postcode =
     // We'll validate at the specific warehouse step
     let create postcode = 
         Postcode postcode
-
-
-// Payment
-// ===========================
-type TransactionId = private TransactionId of string
-
-module TransactionId = 
-
-    let create id = TransactionId  id
-
-
-type PaymentMethod = 
-    | PayPal of TransactionId
-    | Stripe of TransactionId
-    | COD
-
-module PaymentMethod = 
-
-    let validate (oId: OrderId) tId paymentMethod = 
-        match paymentMethod with 
-        | "ppec_paypal" -> Ok (PayPal tId)
-        | "stripe"      -> Ok (Stripe tId)
-        // Cash on delivery. Used during testing
-        | "cod"         -> Ok COD
-        | _ -> 
-            let msg = $"Order# %i{int oId}: Payment method '{paymentMethod}' not recognized."
-            Error [ msg ]
-
-
-module String = 
-
-    let capitalizeWords (str: string) = 
-        let words = System.Text.RegularExpressions.Regex.Split(str, @"\s+")
-
-        words
-        |> Seq.map (fun word -> 
-           let firstUpper = word.[0].ToString().ToUpper()
-           let restLower  = word.[1..].ToLower()
-           firstUpper + restLower)
-        |> String.concat " "
 
 
 // Note: I'm not validating the email at this point because:
@@ -136,12 +109,109 @@ with
 // Capitalize words
 // Remove not allowed characters (see USPS list)
 // Remove umlauts??
+TODO: 
+// Continue here. Implement this PHP method, as I'll need it anyway.
+
+
+// Payment
+// ===========================
+type PaymentId = private PaymentId of string
+
+module TransactionId = 
+
+    let create id = PaymentId  id
+
+
+type PaymentMethod = 
+    | PayPal of PaymentId
+    | Stripe of PaymentId
+    | COD
+
+module PaymentMethod = 
+
+    let validate (oId: OrderId) tId paymentMethod = 
+        match paymentMethod with 
+        | "ppec_paypal" -> Ok (PayPal tId)
+        | "stripe"      -> Ok (Stripe tId)
+        // Cash on delivery. Used during testing
+        | "cod"         -> Ok COD
+        | _ -> 
+            let msg = $"Order# %i{int oId}: Payment method '{paymentMethod}' not recognized."
+            Error [ msg ]
+
+
+// Payment
+// ===========================
+
+type SKU = private SKU of string
+with 
+    override this.ToString() = 
+        let (SKU skuString) = this
+        skuString
+
+module SKU = 
+    // validate if Result
+    let create skuString = 
+        SKU skuString
+
+
+type ProductId = private { Value: int }
+with 
+    static member op_Explicit(productId) = 
+        productId.Value
+
+module ProductId = 
+
+    let create id = { Value = id }
+
+
+type ProductPrice = private { Value: float }
+with 
+    static member op_Explicit(price) = price.Value
+
+module ProductPrice = 
+
+    let create input = { Value = input }
+
+
+type Product = {
+    Name: string
+    Id: ProductId
+    SKU: SKU
+    Price: ProductPrice
+}
+
+type WarehouseLineItem = 
+    | Shippable of Product
+    | NonShippable of Product
+
+
+
+// Helpers
+// ===========================
+
+module String = 
+
+    let capitalizeWords (str: string) = 
+        let words = System.Text.RegularExpressions.Regex.Split(str, @"\s+")
+
+        words
+        |> Seq.map (fun word -> 
+           let firstUpper = word.[0].ToString().ToUpper()
+           let restLower  = word.[1..].ToLower()
+           firstUpper + restLower)
+        |> String.concat " "
+
+
 
         
 type GeneralWarehouseOrder = {
 
     OrderId: OrderId
+    Status: OrderStatus
+    Total: OrderTotal
 
+    LineItems: WarehouseLineItem list
     
     Payment: PaymentMethod
     ShipTo: RawAddress

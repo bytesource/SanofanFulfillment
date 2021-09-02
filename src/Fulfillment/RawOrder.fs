@@ -2,6 +2,7 @@ module SanofanFulfillment.RawOrder
 
 open System.IO
 open Thoth.Json.Net
+open Credentials
 
 // TODO: 
 // 5) Consider separating the decoder code into another file, e.g. Order.Validation
@@ -14,32 +15,32 @@ let getOrderJsonString =
 
 
 // ====================================================
-// Order data extracted from 'Order.received' webhook
+// Extract order data from the WooCommerce 
+// 'Order.received' webhook
 // ====================================================
 
 // NOTE: WooCommerce removes all leading and trailing whitespace.
-// TODO: Raw -> Woo (all fields are specific to WooCommerce)
-type RawPayment = {
+type WooPayment = {
     PaymentMethod: string
     TransactionId: string
 }
 with 
-    static member JsonDecoder : Decoder<RawPayment> = 
+    static member JsonDecoder : Decoder<WooPayment> = 
         Decode.object(fun get -> {
             PaymentMethod = get.Required.Field "payment_method" Decode.string
             TransactionId = get.Required.Field "transaction_id" Decode.string
         })
 
 
-type RawLineItem = {
+type WooLineItemData = {
     ItemId: int
     Sku: string
     Name: string
     Price: float
 }
 with 
-    static member JsonDecoder : Decoder<RawLineItem list> = 
-        let decodeOrderItem : Decoder<RawLineItem> =
+    static member JsonDecoder : Decoder<WooLineItemData list> = 
+        let decodeOrderItem : Decoder<WooLineItemData> =
             Decode.object (fun get -> {
                 ItemId = get.Required.Field "id" Decode.int
                 Sku = get.Required.Field "sku" Decode.string
@@ -51,10 +52,52 @@ with
        
 
     static member FromJson json = 
-        Decode.fromString RawLineItem.JsonDecoder json
+        Decode.fromString WooLineItemData.JsonDecoder json
 
 
-type RawAddress = {
+type WooProduct = {
+    Id: int
+    Sku: string
+    Shippable: bool
+}
+
+
+// let getWooJson credentials path = 
+
+
+TODO:
+// Pack Woo credentials in record
+// Can I "bake-in credentials?"
+type GetWooApiProduct = 
+    Credenticals -> string -> Async<Result<WooProduct, string list>>
+
+let getWooApiProduct productId = 
+    let path = $"/wp-json/wc/v3/products/%i{productId}"
+    async{
+        return Ok {
+            Id = productId
+            Sku = "123"
+            Shippable = true
+        }
+    }
+
+
+
+type WooLineItem = 
+    | Shippable of WooLineItemData
+    | NonShippable of WooLineItemData
+
+module WooLineItem = 
+
+    let create (wooLineItemData: WooLineItemData) (wooProduct: WooProduct) = 
+        if wooProduct.Shippable
+            Shippable wooLineItemData
+        else
+            NonShippable wooLineItemData
+
+
+
+type WooAddress = {
     FirstName: string
     LastName: string
     Email: string
@@ -75,7 +118,7 @@ type RawAddress = {
 
 }
 with
-    static member JsonDecoder : Decoder<RawAddress>  = 
+    static member JsonDecoder : Decoder<WooAddress>  = 
         let addressDecoder = 
             Decode.object (fun get -> {
                 FirstName = get.Required.Field "first_name" Decode.string
@@ -98,31 +141,31 @@ with
 
 
 [<RequireQualifiedAccess>]
-type RawOrder = {
+type WooOrder = {
     OrderId: int
     Status: string
     Total: float
 
-    Payment: RawPayment
+    Payment: WooPayment
 
-    LineItems: RawLineItem list
+    LineItems: WooLineItem list
 
-    ShipTo: RawAddress
+    ShipTo: WooAddress
 }
 with 
-    static member JsonDecoder : Decoder<RawOrder> = 
+    static member JsonDecoder : Decoder<WooOrder> = 
         Decode.object(fun get -> {
             OrderId = get.Required.Field "id" Decode.int 
             Status = get.Required.Field "status" Decode.string 
             Total = get.Required.Field "total" (Decode.map float Decode.string)
 
-            Payment = get.Required.At [] RawPayment.JsonDecoder
+            Payment = get.Required.At [] WooPayment.JsonDecoder
 
-            LineItems = get.Required.At [] RawLineItem.JsonDecoder
+            LineItems = get.Required.At [] WooLineItem.JsonDecoder
 
-            ShipTo = get.Required.At [] RawAddress.JsonDecoder
+            ShipTo = get.Required.At [] WooAddress.JsonDecoder
         })
 
     static member FromJson json = 
-        Decode.fromString RawOrder.JsonDecoder json
+        Decode.fromString WooOrder.JsonDecoder json
 
