@@ -15,6 +15,7 @@
   
   <ItemGroup>
     <PackageReference Include="Falco" Version="3.1.4" />
+    <PackageReference Include="FsToolkit.ErrorHandling" Version="2.7.0" />
     <PackageReference Include="Ply" Version="0.3.1" />
     <PackageReference Include="Thoth.Json.Net" Version="5.0.0" />
   </ItemGroup>
