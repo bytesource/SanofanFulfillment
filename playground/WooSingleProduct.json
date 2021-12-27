@@ -1,0 +1,403 @@
+{
+    "id": 920,
+    "name": "Test Bump (Nothing will be shipped)",
+    "slug": "test-bump-nothing-will-be-shipped",
+    "permalink": "https://www.sanofan.com/product/test-bump-nothing-will-be-shipped/",
+    "date_created": "2019-01-11T02:58:26",
+    "date_created_gmt": "2019-01-11T02:58:26",
+    "date_modified": "2020-09-11T08:59:46",
+    "date_modified_gmt": "2020-09-11T08:59:46",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "hidden",
+    "description": "",
+    "short_description": "",
+    "sku": "",
+    "price": "1",
+    "regular_price": "2",
+    "sale_price": "1",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 12,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": true,
+    "stock_quantity": 0,
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "low_stock_amount": null,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+        {
+            "id": 15,
+            "name": "Uncategorized",
+            "slug": "uncategorized"
+        }
+    ],
+    "tags": [],
+    "images": [],
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>2.00</bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>1.00</bdi></span></ins>",
+    "related_ids": [
+        717
+    ],
+    "meta_data": [
+        {
+            "id": 4402,
+            "key": "_wp_page_template",
+            "value": "default"
+        },
+        {
+            "id": 4432,
+            "key": "rank_math_internal_links_processed",
+            "value": "1"
+        },
+        {
+            "id": 4433,
+            "key": "rank_math_permalink",
+            "value": "test-bump-nothing-is-being-shipped"
+        },
+        {
+            "id": 4434,
+            "key": "rank_math_primary_product_cat",
+            "value": "0"
+        },
+        {
+            "id": 4435,
+            "key": "rank_math_seo_score",
+            "value": "6"
+        },
+        {
+            "id": 4436,
+            "key": "rank_math_robots",
+            "value": [
+                "noindex"
+            ]
+        },
+        {
+            "id": 4437,
+            "key": "rank_math_rich_snippet",
+            "value": "product"
+        },
+        {
+            "id": 4438,
+            "key": "rank_math_facebook_enable_image_overlay",
+            "value": "off"
+        },
+        {
+            "id": 4439,
+            "key": "rank_math_facebook_image_overlay",
+            "value": "play"
+        },
+        {
+            "id": 4440,
+            "key": "rank_math_twitter_use_facebook",
+            "value": "on"
+        },
+        {
+            "id": 4441,
+            "key": "rank_math_twitter_card_type",
+            "value": "summary_large_image"
+        },
+        {
+            "id": 4442,
+            "key": "rank_math_twitter_enable_image_overlay",
+            "value": "off"
+        },
+        {
+            "id": 4443,
+            "key": "rank_math_twitter_image_overlay",
+            "value": "play"
+        },
+        {
+            "id": 4444,
+            "key": "ocean_sidebar",
+            "value": "0"
+        },
+        {
+            "id": 4445,
+            "key": "ocean_second_sidebar",
+            "value": "0"
+        },
+        {
+            "id": 4446,
+            "key": "ocean_disable_margins",
+            "value": "enable"
+        },
+        {
+            "id": 4447,
+            "key": "ocean_display_top_bar",
+            "value": "default"
+        },
+        {
+            "id": 4448,
+            "key": "ocean_display_header",
+            "value": "default"
+        },
+        {
+            "id": 4449,
+            "key": "ocean_center_header_left_menu",
+            "value": "0"
+        },
+        {
+            "id": 4450,
+            "key": "ocean_custom_header_template",
+            "value": "0"
+        },
+        {
+            "id": 4451,
+            "key": "ocean_header_custom_menu",
+            "value": "0"
+        },
+        {
+            "id": 4452,
+            "key": "ocean_menu_typo_font_family",
+            "value": "0"
+        },
+        {
+            "id": 4453,
+            "key": "ocean_disable_title",
+            "value": "default"
+        },
+        {
+            "id": 4454,
+            "key": "ocean_disable_heading",
+            "value": "default"
+        },
+        {
+            "id": 4455,
+            "key": "ocean_disable_breadcrumbs",
+            "value": "default"
+        },
+        {
+            "id": 4456,
+            "key": "ocean_display_footer_widgets",
+            "value": "default"
+        },
+        {
+            "id": 4457,
+            "key": "ocean_display_footer_bottom",
+            "value": "default"
+        },
+        {
+            "id": 4458,
+            "key": "ocean_custom_footer_template",
+            "value": "0"
+        },
+        {
+            "id": 27808,
+            "key": "_seopress_titles_title",
+            "value": ""
+        },
+        {
+            "id": 27809,
+            "key": "_seopress_titles_desc",
+            "value": ""
+        },
+        {
+            "id": 59233,
+            "key": "_seopress_analysis_data",
+            "value": {
+                "title": "Test Bump (Nothing will be shipped) - Sanofan Fishing Sunglasses",
+                "og_title": {
+                    "count": 1,
+                    "values": [
+                        "Test Bump (Nothing will be shipped) - Sanofan Fishing Sunglasses"
+                    ]
+                },
+                "og_desc": {
+                    "count": 1
+                },
+                "og_img": {
+                    "count": 1
+                },
+                "og_url": {
+                    "count": 1,
+                    "values": [
+                        "https://www.sanofan.com/product/test-bump-nothing-will-be-shipped/"
+                    ],
+                    "host": "www.sanofan.com"
+                },
+                "og_site_name": {
+                    "count": 1,
+                    "values": [
+                        "Sanofan Fishing Sunglasses"
+                    ]
+                },
+                "tw_title": {
+                    "count": 1,
+                    "values": [
+                        "Test Bump (Nothing will be shipped) - Sanofan Fishing Sunglasses"
+                    ]
+                },
+                "tw_desc": {
+                    "count": 1
+                },
+                "tw_img": {
+                    "count": 2
+                },
+                "img": {
+                    "images": [
+                        "https://www.sanofan.com/wp-content/uploads/2019/01/3-year-warranty-100x100.png"
+                    ]
+                },
+                "meta_robots": [
+                    [
+                        "noindex"
+                    ]
+                ],
+                "nofollow_links": [
+                    {
+                        "?add-to-cart=717": "Add to cart"
+                    }
+                ],
+                "json": [
+                    "Organization",
+                    "Product"
+                ],
+                "score": false
+            }
+        },
+        {
+            "id": 59234,
+            "key": "swift-performance",
+            "value": {
+                "include-scripts": [
+                    ""
+                ],
+                "include-styles": [
+                    ""
+                ]
+            }
+        },
+        {
+            "id": 59235,
+            "key": "_seopress_robots_index",
+            "value": "yes"
+        },
+        {
+            "id": 59236,
+            "key": "_seopress_robots_canonical",
+            "value": ""
+        },
+        {
+            "id": 59237,
+            "key": "_seopress_social_fb_title",
+            "value": ""
+        },
+        {
+            "id": 59238,
+            "key": "_seopress_social_fb_desc",
+            "value": ""
+        },
+        {
+            "id": 59239,
+            "key": "_seopress_social_fb_img",
+            "value": ""
+        },
+        {
+            "id": 59240,
+            "key": "_seopress_social_twitter_title",
+            "value": ""
+        },
+        {
+            "id": 59241,
+            "key": "_seopress_social_twitter_desc",
+            "value": ""
+        },
+        {
+            "id": 59242,
+            "key": "_seopress_social_twitter_img",
+            "value": ""
+        },
+        {
+            "id": 59243,
+            "key": "_seopress_redirections_type",
+            "value": "301"
+        },
+        {
+            "id": 59244,
+            "key": "_seopress_redirections_value",
+            "value": ""
+        },
+        {
+            "id": 68628,
+            "key": "_judgeme_api_registered",
+            "value": "1"
+        },
+        {
+            "id": 97714,
+            "key": "_judgeme_widget_preview_badge",
+            "value": {
+                "badge": "<div style='display:none' class='jdgm-prev-badge' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <span class='jdgm-prev-badge__stars' data-score='0.00' tabindex='0' aria-label='0.00 stars'> <span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span> </span> <span class='jdgm-prev-badge__text'> No reviews </span> </div>",
+                "product_external_id": 920,
+                "shop_domain": "www.sanofan.com",
+                "platform": "woocommerce"
+            }
+        },
+        {
+            "id": 97717,
+            "key": "_judgeme_widget_review_widget",
+            "value": {
+                "widget": "<div class='jdgm-rev-widg' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <style class='jdgm-temp-hiding-style'>.jdgm-rev-widg{ display: none }</style> <div class='jdgm-rev-widg__header'> <h2 class='jdgm-rev-widg__title'>Customer Reviews</h2>  <div class='jdgm-rev-widg__summary'> <div class='jdgm-rev-widg__summary-stars' aria-label='Average rating is 0.00 stars'> <a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a> </div> <div class='jdgm-rev-widg__summary-text'>No reviews yet</div> </div> <a style='display: none' href='#' class='jdgm-write-rev-link'>Write a review</a> <div class='jdgm-histogram jdgm-temp-hidden'>  <div class='jdgm-histogram__row' data-rating='5' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 5 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='4' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 4 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='3' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 3 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='2' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 2 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='1' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 1 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row jdgm-histogram__clear-filter' data-rating=null tabindex='0'></div> </div> <div class='jdgm-rev-widg__sort-wrapper'></div> </div> <div class='jdgm-rev-widg__body'> <div class='jdgm-rev-widg__reviews'></div> <div class='jdgm-paginate' data-per-page='5' data-url='https://judge.me/reviews/reviews_for_widget' aria-label='Pagination'></div> </div> <div class='jdgm-rev-widg__paginate-spinner-wrapper'> <div class='jdgm-spinner'></div> </div> </div>",
+                "product_external_id": 920,
+                "shop_domain": "www.sanofan.com",
+                "platform": "woocommerce"
+            }
+        },
+        {
+            "id": 98312,
+            "key": "_seopress_analysis_target_kw",
+            "value": ""
+        }
+    ],
+    "stock_status": "outofstock",
+    "brizy_media": [],
+    "brizy_attachment_focal_point": "",
+    "_links": {
+        "self": [
+            {
+                "href": "https://www.sanofan.com/wp-json/wc/v3/products/920"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://www.sanofan.com/wp-json/wc/v3/products"
+            }
+        ]
+    }
+}

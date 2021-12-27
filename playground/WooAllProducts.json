@@ -1,0 +1,2180 @@
+[
+    {
+        "id": 920,
+        "name": "Test Bump (Nothing will be shipped)",
+        "slug": "test-bump-nothing-will-be-shipped",
+        "permalink": "https://www.sanofan.com/product/test-bump-nothing-will-be-shipped/",
+        "date_created": "2019-01-11T02:58:26",
+        "date_created_gmt": "2019-01-11T02:58:26",
+        "date_modified": "2020-09-11T08:59:46",
+        "date_modified_gmt": "2020-09-11T08:59:46",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "hidden",
+        "description": "",
+        "short_description": "",
+        "sku": "",
+        "price": "1",
+        "regular_price": "2",
+        "sale_price": "1",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 12,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>2.00</bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>1.00</bdi></span></ins>",
+        "related_ids": [
+            717
+        ],
+        "meta_data": [
+            {
+                "id": 4402,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 4432,
+                "key": "rank_math_internal_links_processed",
+                "value": "1"
+            },
+            {
+                "id": 4433,
+                "key": "rank_math_permalink",
+                "value": "test-bump-nothing-is-being-shipped"
+            },
+            {
+                "id": 4434,
+                "key": "rank_math_primary_product_cat",
+                "value": "0"
+            },
+            {
+                "id": 4435,
+                "key": "rank_math_seo_score",
+                "value": "6"
+            },
+            {
+                "id": 4436,
+                "key": "rank_math_robots",
+                "value": [
+                    "noindex"
+                ]
+            },
+            {
+                "id": 4437,
+                "key": "rank_math_rich_snippet",
+                "value": "product"
+            },
+            {
+                "id": 4438,
+                "key": "rank_math_facebook_enable_image_overlay",
+                "value": "off"
+            },
+            {
+                "id": 4439,
+                "key": "rank_math_facebook_image_overlay",
+                "value": "play"
+            },
+            {
+                "id": 4440,
+                "key": "rank_math_twitter_use_facebook",
+                "value": "on"
+            },
+            {
+                "id": 4441,
+                "key": "rank_math_twitter_card_type",
+                "value": "summary_large_image"
+            },
+            {
+                "id": 4442,
+                "key": "rank_math_twitter_enable_image_overlay",
+                "value": "off"
+            },
+            {
+                "id": 4443,
+                "key": "rank_math_twitter_image_overlay",
+                "value": "play"
+            },
+            {
+                "id": 4444,
+                "key": "ocean_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 4445,
+                "key": "ocean_second_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 4446,
+                "key": "ocean_disable_margins",
+                "value": "enable"
+            },
+            {
+                "id": 4447,
+                "key": "ocean_display_top_bar",
+                "value": "default"
+            },
+            {
+                "id": 4448,
+                "key": "ocean_display_header",
+                "value": "default"
+            },
+            {
+                "id": 4449,
+                "key": "ocean_center_header_left_menu",
+                "value": "0"
+            },
+            {
+                "id": 4450,
+                "key": "ocean_custom_header_template",
+                "value": "0"
+            },
+            {
+                "id": 4451,
+                "key": "ocean_header_custom_menu",
+                "value": "0"
+            },
+            {
+                "id": 4452,
+                "key": "ocean_menu_typo_font_family",
+                "value": "0"
+            },
+            {
+                "id": 4453,
+                "key": "ocean_disable_title",
+                "value": "default"
+            },
+            {
+                "id": 4454,
+                "key": "ocean_disable_heading",
+                "value": "default"
+            },
+            {
+                "id": 4455,
+                "key": "ocean_disable_breadcrumbs",
+                "value": "default"
+            },
+            {
+                "id": 4456,
+                "key": "ocean_display_footer_widgets",
+                "value": "default"
+            },
+            {
+                "id": 4457,
+                "key": "ocean_display_footer_bottom",
+                "value": "default"
+            },
+            {
+                "id": 4458,
+                "key": "ocean_custom_footer_template",
+                "value": "0"
+            },
+            {
+                "id": 27808,
+                "key": "_seopress_titles_title",
+                "value": ""
+            },
+            {
+                "id": 27809,
+                "key": "_seopress_titles_desc",
+                "value": ""
+            },
+            {
+                "id": 59233,
+                "key": "_seopress_analysis_data",
+                "value": {
+                    "title": "Test Bump (Nothing will be shipped) - Sanofan Fishing Sunglasses",
+                    "og_title": {
+                        "count": 1,
+                        "values": [
+                            "Test Bump (Nothing will be shipped) - Sanofan Fishing Sunglasses"
+                        ]
+                    },
+                    "og_desc": {
+                        "count": 1
+                    },
+                    "og_img": {
+                        "count": 1
+                    },
+                    "og_url": {
+                        "count": 1,
+                        "values": [
+                            "https://www.sanofan.com/product/test-bump-nothing-will-be-shipped/"
+                        ],
+                        "host": "www.sanofan.com"
+                    },
+                    "og_site_name": {
+                        "count": 1,
+                        "values": [
+                            "Sanofan Fishing Sunglasses"
+                        ]
+                    },
+                    "tw_title": {
+                        "count": 1,
+                        "values": [
+                            "Test Bump (Nothing will be shipped) - Sanofan Fishing Sunglasses"
+                        ]
+                    },
+                    "tw_desc": {
+                        "count": 1
+                    },
+                    "tw_img": {
+                        "count": 2
+                    },
+                    "img": {
+                        "images": [
+                            "https://www.sanofan.com/wp-content/uploads/2019/01/3-year-warranty-100x100.png"
+                        ]
+                    },
+                    "meta_robots": [
+                        [
+                            "noindex"
+                        ]
+                    ],
+                    "nofollow_links": [
+                        {
+                            "?add-to-cart=717": "Add to cart"
+                        }
+                    ],
+                    "json": [
+                        "Organization",
+                        "Product"
+                    ],
+                    "score": false
+                }
+            },
+            {
+                "id": 59234,
+                "key": "swift-performance",
+                "value": {
+                    "include-scripts": [
+                        ""
+                    ],
+                    "include-styles": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "id": 59235,
+                "key": "_seopress_robots_index",
+                "value": "yes"
+            },
+            {
+                "id": 59236,
+                "key": "_seopress_robots_canonical",
+                "value": ""
+            },
+            {
+                "id": 59237,
+                "key": "_seopress_social_fb_title",
+                "value": ""
+            },
+            {
+                "id": 59238,
+                "key": "_seopress_social_fb_desc",
+                "value": ""
+            },
+            {
+                "id": 59239,
+                "key": "_seopress_social_fb_img",
+                "value": ""
+            },
+            {
+                "id": 59240,
+                "key": "_seopress_social_twitter_title",
+                "value": ""
+            },
+            {
+                "id": 59241,
+                "key": "_seopress_social_twitter_desc",
+                "value": ""
+            },
+            {
+                "id": 59242,
+                "key": "_seopress_social_twitter_img",
+                "value": ""
+            },
+            {
+                "id": 59243,
+                "key": "_seopress_redirections_type",
+                "value": "301"
+            },
+            {
+                "id": 59244,
+                "key": "_seopress_redirections_value",
+                "value": ""
+            },
+            {
+                "id": 68628,
+                "key": "_judgeme_api_registered",
+                "value": "1"
+            },
+            {
+                "id": 97714,
+                "key": "_judgeme_widget_preview_badge",
+                "value": {
+                    "badge": "<div style='display:none' class='jdgm-prev-badge' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <span class='jdgm-prev-badge__stars' data-score='0.00' tabindex='0' aria-label='0.00 stars'> <span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span> </span> <span class='jdgm-prev-badge__text'> No reviews </span> </div>",
+                    "product_external_id": 920,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            },
+            {
+                "id": 97717,
+                "key": "_judgeme_widget_review_widget",
+                "value": {
+                    "widget": "<div class='jdgm-rev-widg' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <style class='jdgm-temp-hiding-style'>.jdgm-rev-widg{ display: none }</style> <div class='jdgm-rev-widg__header'> <h2 class='jdgm-rev-widg__title'>Customer Reviews</h2>  <div class='jdgm-rev-widg__summary'> <div class='jdgm-rev-widg__summary-stars' aria-label='Average rating is 0.00 stars'> <a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a> </div> <div class='jdgm-rev-widg__summary-text'>No reviews yet</div> </div> <a style='display: none' href='#' class='jdgm-write-rev-link'>Write a review</a> <div class='jdgm-histogram jdgm-temp-hidden'>  <div class='jdgm-histogram__row' data-rating='5' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 5 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='4' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 4 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='3' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 3 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='2' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 2 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='1' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 1 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row jdgm-histogram__clear-filter' data-rating=null tabindex='0'></div> </div> <div class='jdgm-rev-widg__sort-wrapper'></div> </div> <div class='jdgm-rev-widg__body'> <div class='jdgm-rev-widg__reviews'></div> <div class='jdgm-paginate' data-per-page='5' data-url='https://judge.me/reviews/reviews_for_widget' aria-label='Pagination'></div> </div> <div class='jdgm-rev-widg__paginate-spinner-wrapper'> <div class='jdgm-spinner'></div> </div> </div>",
+                    "product_external_id": 920,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            },
+            {
+                "id": 98312,
+                "key": "_seopress_analysis_target_kw",
+                "value": ""
+            }
+        ],
+        "stock_status": "outofstock",
+        "brizy_media": [],
+        "brizy_attachment_focal_point": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products/920"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 918,
+        "name": "Test Product (nothing will be shipped)",
+        "slug": "test-product-nothing-will-be-shipped",
+        "permalink": "https://www.sanofan.com/product/test-product-nothing-will-be-shipped/",
+        "date_created": "2019-01-11T02:48:31",
+        "date_created_gmt": "2019-01-11T02:48:31",
+        "date_modified": "2020-09-11T08:59:45",
+        "date_modified_gmt": "2020-09-11T08:59:45",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "hidden",
+        "description": "",
+        "short_description": "",
+        "sku": "",
+        "price": "1",
+        "regular_price": "2",
+        "sale_price": "1",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 42,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 178,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": 9,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 37,
+                "name": "Main",
+                "slug": "main"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>2.00</bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>1.00</bdi></span></ins>",
+        "related_ids": [
+            13
+        ],
+        "meta_data": [
+            {
+                "id": 4339,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 4369,
+                "key": "rank_math_internal_links_processed",
+                "value": "1"
+            },
+            {
+                "id": 4370,
+                "key": "rank_math_permalink",
+                "value": "test-product-nothing-will-be-shipped"
+            },
+            {
+                "id": 4371,
+                "key": "rank_math_primary_product_cat",
+                "value": "0"
+            },
+            {
+                "id": 4372,
+                "key": "rank_math_seo_score",
+                "value": "5"
+            },
+            {
+                "id": 4373,
+                "key": "rank_math_robots",
+                "value": [
+                    "noindex"
+                ]
+            },
+            {
+                "id": 4374,
+                "key": "rank_math_rich_snippet",
+                "value": "product"
+            },
+            {
+                "id": 4375,
+                "key": "rank_math_facebook_enable_image_overlay",
+                "value": "off"
+            },
+            {
+                "id": 4376,
+                "key": "rank_math_facebook_image_overlay",
+                "value": "play"
+            },
+            {
+                "id": 4377,
+                "key": "rank_math_twitter_use_facebook",
+                "value": "on"
+            },
+            {
+                "id": 4378,
+                "key": "rank_math_twitter_card_type",
+                "value": "summary_large_image"
+            },
+            {
+                "id": 4379,
+                "key": "rank_math_twitter_enable_image_overlay",
+                "value": "off"
+            },
+            {
+                "id": 4380,
+                "key": "rank_math_twitter_image_overlay",
+                "value": "play"
+            },
+            {
+                "id": 4381,
+                "key": "ocean_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 4382,
+                "key": "ocean_second_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 4383,
+                "key": "ocean_disable_margins",
+                "value": "enable"
+            },
+            {
+                "id": 4384,
+                "key": "ocean_display_top_bar",
+                "value": "default"
+            },
+            {
+                "id": 4385,
+                "key": "ocean_display_header",
+                "value": "default"
+            },
+            {
+                "id": 4386,
+                "key": "ocean_center_header_left_menu",
+                "value": "0"
+            },
+            {
+                "id": 4387,
+                "key": "ocean_custom_header_template",
+                "value": "0"
+            },
+            {
+                "id": 4388,
+                "key": "ocean_header_custom_menu",
+                "value": "0"
+            },
+            {
+                "id": 4389,
+                "key": "ocean_menu_typo_font_family",
+                "value": "0"
+            },
+            {
+                "id": 4390,
+                "key": "ocean_disable_title",
+                "value": "default"
+            },
+            {
+                "id": 4391,
+                "key": "ocean_disable_heading",
+                "value": "default"
+            },
+            {
+                "id": 4392,
+                "key": "ocean_disable_breadcrumbs",
+                "value": "default"
+            },
+            {
+                "id": 4393,
+                "key": "ocean_display_footer_widgets",
+                "value": "default"
+            },
+            {
+                "id": 4394,
+                "key": "ocean_display_footer_bottom",
+                "value": "default"
+            },
+            {
+                "id": 4395,
+                "key": "ocean_custom_footer_template",
+                "value": "0"
+            },
+            {
+                "id": 26179,
+                "key": "_seopress_analysis_data",
+                "value": {
+                    "title": "Test Product (nothing will be shipped) - FluidTint Sunglasses by Sanofan",
+                    "og_title": "Test Product (nothing will be shipped) - FluidTint Sunglasses by Sanofan",
+                    "tw_title": "Test Product (nothing will be shipped) - FluidTint Sunglasses by Sanofan",
+                    "img": {
+                        "images": [
+                            "https://www.sanofan.com/wp-content/uploads/2018/06/sanofan-fishing-glasses-with-case-n-bgWhite-noreflex-square-800w-80_1-100x100.jpg",
+                            "https://www.facebook.com/tr?id=722328918149511&ev=PageView&noscript=1"
+                        ]
+                    },
+                    "meta_robots": [
+                        [
+                            "noindex"
+                        ]
+                    ],
+                    "nofollow_links": [
+                        {
+                            "/product/test-product-nothing-will-be-shipped/?no_admin_bar=1&preview=true#respond": "Cancel reply"
+                        },
+                        {
+                            "/product/test-product-nothing-will-be-shipped/?no_admin_bar=1&preview=true&add-to-cart=13": "Add to cart"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 26467,
+                "key": "swift-performance",
+                "value": {
+                    "include-scripts": [
+                        ""
+                    ],
+                    "include-styles": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "id": 26468,
+                "key": "_seopress_titles_title",
+                "value": ""
+            },
+            {
+                "id": 26469,
+                "key": "_seopress_titles_desc",
+                "value": ""
+            },
+            {
+                "id": 26470,
+                "key": "_seopress_robots_canonical",
+                "value": ""
+            },
+            {
+                "id": 26471,
+                "key": "_seopress_social_fb_title",
+                "value": ""
+            },
+            {
+                "id": 26472,
+                "key": "_seopress_social_fb_desc",
+                "value": ""
+            },
+            {
+                "id": 26473,
+                "key": "_seopress_social_fb_img",
+                "value": ""
+            },
+            {
+                "id": 26474,
+                "key": "_seopress_social_twitter_title",
+                "value": ""
+            },
+            {
+                "id": 26475,
+                "key": "_seopress_social_twitter_desc",
+                "value": ""
+            },
+            {
+                "id": 26476,
+                "key": "_seopress_social_twitter_img",
+                "value": ""
+            },
+            {
+                "id": 26477,
+                "key": "_seopress_redirections_type",
+                "value": "301"
+            },
+            {
+                "id": 26478,
+                "key": "_seopress_redirections_value",
+                "value": ""
+            },
+            {
+                "id": 59247,
+                "key": "_seopress_robots_index",
+                "value": "yes"
+            },
+            {
+                "id": 59248,
+                "key": "_seopress_analysis_target_kw",
+                "value": ""
+            },
+            {
+                "id": 68632,
+                "key": "_judgeme_api_registered",
+                "value": "1"
+            },
+            {
+                "id": 97713,
+                "key": "_judgeme_widget_preview_badge",
+                "value": {
+                    "badge": "<div style='display:none' class='jdgm-prev-badge' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <span class='jdgm-prev-badge__stars' data-score='0.00' tabindex='0' aria-label='0.00 stars'> <span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span> </span> <span class='jdgm-prev-badge__text'> No reviews </span> </div>",
+                    "product_external_id": 918,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            },
+            {
+                "id": 97719,
+                "key": "_judgeme_widget_review_widget",
+                "value": {
+                    "widget": "<div class='jdgm-rev-widg' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <style class='jdgm-temp-hiding-style'>.jdgm-rev-widg{ display: none }</style> <div class='jdgm-rev-widg__header'> <h2 class='jdgm-rev-widg__title'>Customer Reviews</h2>  <div class='jdgm-rev-widg__summary'> <div class='jdgm-rev-widg__summary-stars' aria-label='Average rating is 0.00 stars'> <a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a> </div> <div class='jdgm-rev-widg__summary-text'>No reviews yet</div> </div> <a style='display: none' href='#' class='jdgm-write-rev-link'>Write a review</a> <div class='jdgm-histogram jdgm-temp-hidden'>  <div class='jdgm-histogram__row' data-rating='5' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 5 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='4' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 4 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='3' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 3 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='2' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 2 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='1' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 1 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row jdgm-histogram__clear-filter' data-rating=null tabindex='0'></div> </div> <div class='jdgm-rev-widg__sort-wrapper'></div> </div> <div class='jdgm-rev-widg__body'> <div class='jdgm-rev-widg__reviews'></div> <div class='jdgm-paginate' data-per-page='5' data-url='https://judge.me/reviews/reviews_for_widget' aria-label='Pagination'></div> </div> <div class='jdgm-rev-widg__paginate-spinner-wrapper'> <div class='jdgm-spinner'></div> </div> </div>",
+                    "product_external_id": 918,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            }
+        ],
+        "stock_status": "instock",
+        "brizy_media": [],
+        "brizy_attachment_focal_point": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products/918"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 717,
+        "name": "3 Year Warranty",
+        "slug": "3-year-warranty",
+        "permalink": "https://www.sanofan.com/product/3-year-warranty/",
+        "date_created": "2019-01-02T08:01:02",
+        "date_created_gmt": "2019-01-02T08:01:02",
+        "date_modified": "2019-09-18T05:50:07",
+        "date_modified_gmt": "2019-09-18T05:50:07",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "",
+        "short_description": "",
+        "sku": "Warranty3",
+        "price": "9.95",
+        "regular_price": "19.95",
+        "sale_price": "9.95",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 14,
+        "virtual": true,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": false,
+        "shipping_taxable": false,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 1058,
+                "date_created": "2019-01-17T02:10:20",
+                "date_created_gmt": "2019-01-17T02:10:20",
+                "date_modified": "2019-01-17T02:10:20",
+                "date_modified_gmt": "2019-01-17T02:10:20",
+                "src": "https://www.sanofan.com/wp-content/uploads/2019/01/3-year-warranty.png",
+                "name": "3-year-warranty",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>19.95</bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>9.95</bdi></span></ins>",
+        "related_ids": [],
+        "meta_data": [
+            {
+                "id": 3230,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 3260,
+                "key": "rank_math_internal_links_processed",
+                "value": "1"
+            },
+            {
+                "id": 3261,
+                "key": "rank_math_primary_product_cat",
+                "value": "0"
+            },
+            {
+                "id": 3262,
+                "key": "rank_math_seo_score",
+                "value": "7"
+            },
+            {
+                "id": 3263,
+                "key": "rank_math_rich_snippet",
+                "value": "product"
+            },
+            {
+                "id": 3264,
+                "key": "rank_math_facebook_enable_image_overlay",
+                "value": "off"
+            },
+            {
+                "id": 3265,
+                "key": "rank_math_facebook_image_overlay",
+                "value": "play"
+            },
+            {
+                "id": 3266,
+                "key": "rank_math_twitter_use_facebook",
+                "value": "on"
+            },
+            {
+                "id": 3267,
+                "key": "rank_math_twitter_card_type",
+                "value": "summary_large_image"
+            },
+            {
+                "id": 3268,
+                "key": "rank_math_twitter_enable_image_overlay",
+                "value": "off"
+            },
+            {
+                "id": 3269,
+                "key": "rank_math_twitter_image_overlay",
+                "value": "play"
+            },
+            {
+                "id": 3270,
+                "key": "ocean_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 3271,
+                "key": "ocean_second_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 3272,
+                "key": "ocean_disable_margins",
+                "value": "enable"
+            },
+            {
+                "id": 3273,
+                "key": "ocean_display_top_bar",
+                "value": "default"
+            },
+            {
+                "id": 3274,
+                "key": "ocean_display_header",
+                "value": "default"
+            },
+            {
+                "id": 3275,
+                "key": "ocean_center_header_left_menu",
+                "value": "0"
+            },
+            {
+                "id": 3276,
+                "key": "ocean_custom_header_template",
+                "value": "0"
+            },
+            {
+                "id": 3277,
+                "key": "ocean_header_custom_menu",
+                "value": "0"
+            },
+            {
+                "id": 3278,
+                "key": "ocean_menu_typo_font_family",
+                "value": "0"
+            },
+            {
+                "id": 3279,
+                "key": "ocean_disable_title",
+                "value": "default"
+            },
+            {
+                "id": 3280,
+                "key": "ocean_disable_heading",
+                "value": "default"
+            },
+            {
+                "id": 3281,
+                "key": "ocean_disable_breadcrumbs",
+                "value": "default"
+            },
+            {
+                "id": 3282,
+                "key": "ocean_display_footer_widgets",
+                "value": "default"
+            },
+            {
+                "id": 3283,
+                "key": "ocean_display_footer_bottom",
+                "value": "default"
+            },
+            {
+                "id": 3284,
+                "key": "ocean_custom_footer_template",
+                "value": "0"
+            },
+            {
+                "id": 3286,
+                "key": "rank_math_permalink",
+                "value": "3-year-warranty"
+            },
+            {
+                "id": 6257,
+                "key": "swift-performance",
+                "value": {
+                    "include-scripts": [
+                        ""
+                    ],
+                    "include-styles": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "id": 6258,
+                "key": "_seopress_titles_title",
+                "value": ""
+            },
+            {
+                "id": 6259,
+                "key": "_seopress_titles_desc",
+                "value": ""
+            },
+            {
+                "id": 6260,
+                "key": "_seopress_robots_canonical",
+                "value": ""
+            },
+            {
+                "id": 6261,
+                "key": "_seopress_social_fb_title",
+                "value": ""
+            },
+            {
+                "id": 6262,
+                "key": "_seopress_social_fb_desc",
+                "value": ""
+            },
+            {
+                "id": 6263,
+                "key": "_seopress_social_fb_img",
+                "value": ""
+            },
+            {
+                "id": 6264,
+                "key": "_seopress_social_twitter_title",
+                "value": ""
+            },
+            {
+                "id": 6265,
+                "key": "_seopress_social_twitter_desc",
+                "value": ""
+            },
+            {
+                "id": 6266,
+                "key": "_seopress_social_twitter_img",
+                "value": ""
+            },
+            {
+                "id": 6267,
+                "key": "_seopress_redirections_type",
+                "value": "301"
+            },
+            {
+                "id": 6268,
+                "key": "_seopress_redirections_value",
+                "value": ""
+            },
+            {
+                "id": 26599,
+                "key": "_seopress_analysis_data",
+                "value": {
+                    "title": "3 Year Warranty - Sanofan Fishing Sunglasses",
+                    "og_title": {
+                        "count": 1,
+                        "values": [
+                            "3 Year Warranty - Sanofan Fishing Sunglasses"
+                        ]
+                    },
+                    "og_desc": {
+                        "count": 1
+                    },
+                    "og_img": {
+                        "count": 1,
+                        "values": [
+                            "https://www.sanofan.com/wp-content/uploads/2019/01/3-year-warranty.png"
+                        ]
+                    },
+                    "og_url": {
+                        "count": 1,
+                        "values": [
+                            "https://www.sanofan.com/product/3-year-warranty/"
+                        ],
+                        "host": "www.sanofan.com"
+                    },
+                    "og_site_name": {
+                        "count": 1,
+                        "values": [
+                            "Sanofan Fishing Sunglasses"
+                        ]
+                    },
+                    "tw_title": {
+                        "count": 1,
+                        "values": [
+                            "3 Year Warranty - Sanofan Fishing Sunglasses"
+                        ]
+                    },
+                    "tw_desc": {
+                        "count": 1
+                    },
+                    "tw_img": {
+                        "count": 2,
+                        "values": [
+                            "https://www.sanofan.com/wp-content/uploads/2019/01/3-year-warranty.png"
+                        ]
+                    },
+                    "img": {
+                        "images": [
+                            "https://www.sanofan.com/wp-content/uploads/2020/02/site-logo-sanofan-1.png",
+                            "https://www.sanofan.com/wp-content/uploads/2019/01/3-year-warranty.png"
+                        ]
+                    },
+                    "meta_robots": [
+                        [
+                            "noindex"
+                        ]
+                    ],
+                    "json": [
+                        "Organization",
+                        "Product"
+                    ]
+                }
+            },
+            {
+                "id": 27532,
+                "key": "brizy_attachment_focal_point",
+                "value": {
+                    "x": 50,
+                    "y": 50
+                }
+            },
+            {
+                "id": 59250,
+                "key": "_seopress_robots_index",
+                "value": "yes"
+            },
+            {
+                "id": 68631,
+                "key": "_judgeme_api_registered",
+                "value": "1"
+            },
+            {
+                "id": 97712,
+                "key": "_judgeme_widget_preview_badge",
+                "value": {
+                    "badge": "<div style='display:none' class='jdgm-prev-badge' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <span class='jdgm-prev-badge__stars' data-score='0.00' tabindex='0' aria-label='0.00 stars'> <span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span> </span> <span class='jdgm-prev-badge__text'> No reviews </span> </div>",
+                    "product_external_id": 717,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            },
+            {
+                "id": 97718,
+                "key": "_judgeme_widget_review_widget",
+                "value": {
+                    "widget": "<div class='jdgm-rev-widg' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <style class='jdgm-temp-hiding-style'>.jdgm-rev-widg{ display: none }</style> <div class='jdgm-rev-widg__header'> <h2 class='jdgm-rev-widg__title'>Customer Reviews</h2>  <div class='jdgm-rev-widg__summary'> <div class='jdgm-rev-widg__summary-stars' aria-label='Average rating is 0.00 stars'> <a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a> </div> <div class='jdgm-rev-widg__summary-text'>No reviews yet</div> </div> <a style='display: none' href='#' class='jdgm-write-rev-link'>Write a review</a> <div class='jdgm-histogram jdgm-temp-hidden'>  <div class='jdgm-histogram__row' data-rating='5' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 5 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='4' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 4 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='3' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 3 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='2' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 2 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='1' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 1 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row jdgm-histogram__clear-filter' data-rating=null tabindex='0'></div> </div> <div class='jdgm-rev-widg__sort-wrapper'></div> </div> <div class='jdgm-rev-widg__body'> <div class='jdgm-rev-widg__reviews'></div> <div class='jdgm-paginate' data-per-page='5' data-url='https://judge.me/reviews/reviews_for_widget' aria-label='Pagination'></div> </div> <div class='jdgm-rev-widg__paginate-spinner-wrapper'> <div class='jdgm-spinner'></div> </div> </div>",
+                    "product_external_id": 717,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            },
+            {
+                "id": 107572,
+                "key": "_seopress_analysis_target_kw",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "brizy_media": [],
+        "brizy_attachment_focal_point": {
+            "x": 50,
+            "y": 50
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products/717"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 499,
+        "name": "5 Year Warranty",
+        "slug": "5-year-warranty",
+        "permalink": "https://www.sanofan.com/product/5-year-warranty/",
+        "date_created": "2018-12-11T08:47:21",
+        "date_created_gmt": "2018-12-11T08:47:21",
+        "date_modified": "2019-10-24T08:11:41",
+        "date_modified_gmt": "2019-10-24T08:11:41",
+        "type": "simple",
+        "status": "private",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "",
+        "short_description": "",
+        "sku": "Warranty5",
+        "price": "19.95",
+        "regular_price": "29.95",
+        "sale_price": "19.95",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 2,
+        "virtual": true,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": false,
+        "shipping_taxable": false,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 509,
+                "date_created": "2018-12-12T13:27:56",
+                "date_created_gmt": "2018-12-12T13:27:56",
+                "date_modified": "2018-12-12T13:27:56",
+                "date_modified_gmt": "2018-12-12T13:27:56",
+                "src": "https://www.sanofan.com/wp-content/uploads/2018/12/5-year-warranty.png",
+                "name": "5-year-warranty",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>29.95</bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>19.95</bdi></span></ins>",
+        "related_ids": [
+            717
+        ],
+        "meta_data": [
+            {
+                "id": 1763,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 1793,
+                "key": "ocean_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 1794,
+                "key": "ocean_second_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 1795,
+                "key": "ocean_disable_margins",
+                "value": "enable"
+            },
+            {
+                "id": 1796,
+                "key": "ocean_display_top_bar",
+                "value": "default"
+            },
+            {
+                "id": 1797,
+                "key": "ocean_display_header",
+                "value": "default"
+            },
+            {
+                "id": 1798,
+                "key": "ocean_center_header_left_menu",
+                "value": "0"
+            },
+            {
+                "id": 1799,
+                "key": "ocean_custom_header_template",
+                "value": "0"
+            },
+            {
+                "id": 1800,
+                "key": "ocean_header_custom_menu",
+                "value": "0"
+            },
+            {
+                "id": 1801,
+                "key": "ocean_menu_typo_font_family",
+                "value": "0"
+            },
+            {
+                "id": 1802,
+                "key": "ocean_disable_title",
+                "value": "default"
+            },
+            {
+                "id": 1803,
+                "key": "ocean_disable_heading",
+                "value": "default"
+            },
+            {
+                "id": 1804,
+                "key": "ocean_disable_breadcrumbs",
+                "value": "default"
+            },
+            {
+                "id": 1805,
+                "key": "ocean_display_footer_widgets",
+                "value": "default"
+            },
+            {
+                "id": 1806,
+                "key": "ocean_display_footer_bottom",
+                "value": "default"
+            },
+            {
+                "id": 1807,
+                "key": "ocean_custom_footer_template",
+                "value": "0"
+            },
+            {
+                "id": 2488,
+                "key": "rank_math_internal_links_processed",
+                "value": "1"
+            },
+            {
+                "id": 27515,
+                "key": "_seopress_analysis_data",
+                "value": {
+                    "title": "Private: 5 Year Warranty - FluidTint Sunglasses by Sanofan",
+                    "meta_desc": "FluidTint Sunglasses by Sanofan",
+                    "og_title": "",
+                    "og_desc": "",
+                    "og_img": "https://www.sanofan.com",
+                    "tw_title": "",
+                    "tw_desc": "",
+                    "tw_img": "https://www.sanofan.com/wp-content/uploads/2018/12/5-year-warranty.png",
+                    "img": {
+                        "images": [
+                            "https://www.sanofan.com/wp-content/uploads/2019/01/3-year-warranty-100x100.png",
+                            "https://www.sanofan.com/wp-content/uploads/2018/12/5-year-warranty.png",
+                            "https://www.facebook.com/tr?id=722328918149511&ev=PageView&noscript=1"
+                        ]
+                    },
+                    "meta_robots": [
+                        [
+                            "noindex"
+                        ]
+                    ],
+                    "nofollow_links": [
+                        {
+                            "?add-to-cart=717": "Add to cart"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 27516,
+                "key": "swift-performance",
+                "value": {
+                    "include-scripts": [
+                        ""
+                    ],
+                    "include-styles": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "id": 27517,
+                "key": "_seopress_titles_title",
+                "value": ""
+            },
+            {
+                "id": 27518,
+                "key": "_seopress_titles_desc",
+                "value": ""
+            },
+            {
+                "id": 27519,
+                "key": "_seopress_robots_canonical",
+                "value": ""
+            },
+            {
+                "id": 27520,
+                "key": "_seopress_social_fb_title",
+                "value": ""
+            },
+            {
+                "id": 27521,
+                "key": "_seopress_social_fb_desc",
+                "value": ""
+            },
+            {
+                "id": 27522,
+                "key": "_seopress_social_fb_img",
+                "value": ""
+            },
+            {
+                "id": 27523,
+                "key": "_seopress_social_twitter_title",
+                "value": ""
+            },
+            {
+                "id": 27524,
+                "key": "_seopress_social_twitter_desc",
+                "value": ""
+            },
+            {
+                "id": 27525,
+                "key": "_seopress_social_twitter_img",
+                "value": ""
+            },
+            {
+                "id": 27526,
+                "key": "_seopress_redirections_type",
+                "value": "301"
+            },
+            {
+                "id": 27527,
+                "key": "_seopress_redirections_value",
+                "value": ""
+            },
+            {
+                "id": 27528,
+                "key": "brizy_attachment_focal_point",
+                "value": {
+                    "x": 50,
+                    "y": 50
+                }
+            },
+            {
+                "id": 59253,
+                "key": "_seopress_robots_index",
+                "value": "yes"
+            },
+            {
+                "id": 68630,
+                "key": "_judgeme_api_registered",
+                "value": "1"
+            },
+            {
+                "id": 68678,
+                "key": "_seopress_analysis_target_kw",
+                "value": ""
+            },
+            {
+                "id": 97715,
+                "key": "_judgeme_widget_preview_badge",
+                "value": {
+                    "badge": "<div style='display:none' class='jdgm-prev-badge' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <span class='jdgm-prev-badge__stars' data-score='0.00' tabindex='0' aria-label='0.00 stars'> <span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span> </span> <span class='jdgm-prev-badge__text'> No reviews </span> </div>",
+                    "product_external_id": 499,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            },
+            {
+                "id": 97716,
+                "key": "_judgeme_widget_review_widget",
+                "value": {
+                    "widget": "<div class='jdgm-rev-widg' data-average-rating='0.00' data-number-of-reviews='0' data-number-of-questions='0'> <style class='jdgm-temp-hiding-style'>.jdgm-rev-widg{ display: none }</style> <div class='jdgm-rev-widg__header'> <h2 class='jdgm-rev-widg__title'>Customer Reviews</h2>  <div class='jdgm-rev-widg__summary'> <div class='jdgm-rev-widg__summary-stars' aria-label='Average rating is 0.00 stars'> <a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a> </div> <div class='jdgm-rev-widg__summary-text'>No reviews yet</div> </div> <a style='display: none' href='#' class='jdgm-write-rev-link'>Write a review</a> <div class='jdgm-histogram jdgm-temp-hidden'>  <div class='jdgm-histogram__row' data-rating='5' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 5 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='4' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 4 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='3' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 3 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='2' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 2 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='1' data-frequency='0' data-percentage='0' role='button' tabindex='0' aria-label=\"0 reviews with 1 star rating\"> <div class='jdgm-histogram__star'><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a><a class='jdgm-star jdgm--off'></a></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row jdgm-histogram__clear-filter' data-rating=null tabindex='0'></div> </div> <div class='jdgm-rev-widg__sort-wrapper'></div> </div> <div class='jdgm-rev-widg__body'> <div class='jdgm-rev-widg__reviews'></div> <div class='jdgm-paginate' data-per-page='5' data-url='https://judge.me/reviews/reviews_for_widget' aria-label='Pagination'></div> </div> <div class='jdgm-rev-widg__paginate-spinner-wrapper'> <div class='jdgm-spinner'></div> </div> </div>",
+                    "product_external_id": 499,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            }
+        ],
+        "stock_status": "instock",
+        "brizy_media": [],
+        "brizy_attachment_focal_point": {
+            "x": 50,
+            "y": 50
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products/499"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "name": "FluidTint™ Sunglasses \"N-Style\" + Hard Case (190 Days Money Back, 1 Year Warranty)",
+        "slug": "fluidtint-sunglasses",
+        "permalink": "https://www.sanofan.com/product/fluidtint-sunglasses/",
+        "date_created": "2018-06-14T04:33:48",
+        "date_created_gmt": "2018-06-14T04:33:48",
+        "date_modified": "2021-09-01T22:12:53",
+        "date_modified_gmt": "2021-09-01T22:12:53",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<div class=\"brz-root__container brz-reset-all\"></div>\n<p><!-- version:1621064195 --></p>\n",
+        "short_description": "<p class=\"swift-in-viewport\">FluidTint™ polarized lenses  <strong>automatically</strong><strong> maintain the best vision </strong>in all  light conditions<strong>, </strong> which makes them <strong>the first choice for all sight fishing activities</strong> like fly fishing and especially trout fishing.</p>\n<p class=\"swift-in-viewport\">This provides you with a <strong>true tactical advantage</strong> over fellow anglers whose vision is limited by traditional color lenses.</p>\n<p class=\"swift-in-viewport\">But there&#8217;s more.</p>\n<p class=\"swift-in-viewport\">Because FluidTint™ color-changing sunglasses adapt over the whole range of sunlight, from overcast to blue sky, <strong>you only need this one pair</strong> to be covered all year round—from dawn to dusk, in Spring, Summer, Fall, and Winter.</p>\n",
+        "sku": "CASE2874",
+        "price": "59.99",
+        "regular_price": "89",
+        "sale_price": "59.99",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 732,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 21,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": 10,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "tracked-shipping",
+        "shipping_class_id": 23,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 37,
+                "name": "Main",
+                "slug": "main"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4091,
+                "date_created": "2019-06-24T04:59:17",
+                "date_created_gmt": "2019-06-24T04:59:17",
+                "date_modified": "2019-06-24T04:59:17",
+                "date_modified_gmt": "2019-06-24T04:59:17",
+                "src": "https://www.sanofan.com/wp-content/uploads/2018/06/sanofan-fishing-glasses-with-case-n-bgWhite-noreflex-square-800w-80_1.jpg",
+                "name": "sanofan fishing glasses with case &#8211; n &#8211; bgWhite &#8211; noreflex &#8211; square &#8211; 800w &#8211; 80_1",
+                "alt": ""
+            },
+            {
+                "id": 7727,
+                "date_created": "2019-10-12T03:32:41",
+                "date_created_gmt": "2019-10-12T03:32:41",
+                "date_modified": "2019-10-12T03:32:41",
+                "date_modified_gmt": "2019-10-12T03:32:41",
+                "src": "https://www.sanofan.com/wp-content/uploads/2019/10/fluidtint-color-changing-fishing-sunglasses-activated-3-2190x2190.jpg",
+                "name": "fluidtint color-changing fishing sunglasses &#8211; activated 3 &#8211; 2190&#215;2190",
+                "alt": ""
+            },
+            {
+                "id": 3983,
+                "date_created": "2019-06-20T08:26:14",
+                "date_created_gmt": "2019-06-20T08:26:14",
+                "date_modified": "2019-06-20T08:26:14",
+                "date_modified_gmt": "2019-06-20T08:26:14",
+                "src": "https://www.sanofan.com/wp-content/uploads/2019/06/photochromic-and-polarized-sunglasses-left-view_square_shopping.jpg",
+                "name": "photochromic and polarized sunglasses &#8211; left view_square_shopping",
+                "alt": ""
+            },
+            {
+                "id": 3982,
+                "date_created": "2019-06-20T08:25:05",
+                "date_created_gmt": "2019-06-20T08:25:05",
+                "date_modified": "2019-06-20T08:25:05",
+                "date_modified_gmt": "2019-06-20T08:25:05",
+                "src": "https://www.sanofan.com/wp-content/uploads/2019/06/photochromic-and-polarized-sunglasses-back-view_square_shopping.jpg",
+                "name": "photochromic and polarized sunglasses &#8211; back view_square_shopping",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>89.00</bdi></span></del> <ins><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">USD $</span>59.99</bdi></span></ins>",
+        "related_ids": [],
+        "meta_data": [
+            {
+                "id": 56,
+                "key": "_yoast_wpseo_primary_product_cat",
+                "value": ""
+            },
+            {
+                "id": 57,
+                "key": "_yoast_wpseo_content_score",
+                "value": "30"
+            },
+            {
+                "id": 61,
+                "key": "brizy",
+                "value": {
+                    "0": "",
+                    "brizy-post": {
+                        "compiled_html": "ICAgPCFET0NUWVBFIGh0bWw+PGh0bWwgbGFuZz0iZW4iPjxoZWFkPjxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsaW5pdGlhbC1zY2FsZT0xIj48c3R5bGUgY2xhc3M9ImJyei1zdHlsZSI+PC9zdHlsZT48c3R5bGUgY2xhc3M9ImJyei1zdHlsZSI+PC9zdHlsZT48c3R5bGUgY2xhc3M9ImJyei1zdHlsZSIgaWQ9ImRjLWNvbG9yIj48L3N0eWxlPjxzdHlsZSBjbGFzcz0iYnJ6LXN0eWxlIj4uYnJ6IC5icnotY3AtY29sb3IxLCAuYnJ6IC5icnotY3AtY29sb3Ixe2NvbG9yOiAjMTkxYjIxO30uYnJ6IC5icnotY3AtY29sb3IyLCAuYnJ6IC5icnotY3AtY29sb3Iye2NvbG9yOiAjMTQyODUwO30uYnJ6IC5icnotY3AtY29sb3IzLCAuYnJ6IC5icnotY3AtY29sb3Ize2NvbG9yOiAjMjM5ZGRiO30uYnJ6IC5icnotY3AtY29sb3I0LCAuYnJ6IC5icnotY3AtY29sb3I0e2NvbG9yOiAjNjY3MzhkO30uYnJ6IC5icnotY3AtY29sb3I1LCAuYnJ6IC5icnotY3AtY29sb3I1e2NvbG9yOiAjYmRlMWY0O30uYnJ6IC5icnotY3AtY29sb3I2LCAuYnJ6IC5icnotY3AtY29sb3I2e2NvbG9yOiAjZWVmMGYyO30uYnJ6IC5icnotY3AtY29sb3I3LCAuYnJ6IC5icnotY3AtY29sb3I3e2NvbG9yOiAjNzM3NzdmO30uYnJ6IC5icnotY3AtY29sb3I4LCAuYnJ6IC5icnotY3AtY29sb3I4e2NvbG9yOiAjZmZmZmZmO308L3N0eWxlPjxzdHlsZSBjbGFzcz0iYnJ6LXN0eWxlIj48L3N0eWxlPjxsaW5rIGNsYXNzPSJicnotbGluayBicnotbGluay1nb29nbGUiIHR5cGU9InRleHQvY3NzIiByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzP2ZhbWlseT1Ob3RvK1NlcmlmOnJlZ3VsYXIsaXRhbGljLDcwMCw3MDBpdGFsaWN8TW9udHNlcnJhdDoxMDAsMTAwaXRhbGljLDIwMCwyMDBpdGFsaWMsMzAwLDMwMGl0YWxpYyxyZWd1bGFyLGl0YWxpYyw1MDAsNTAwaXRhbGljLDYwMCw2MDBpdGFsaWMsNzAwLDcwMGl0YWxpYyw4MDAsODAwaXRhbGljLDkwMCw5MDBpdGFsaWN8TGF0bzoxMDAsMTAwaXRhbGljLDMwMCwzMDBpdGFsaWMscmVndWxhcixpdGFsaWMsNzAwLDcwMGl0YWxpYyw5MDAsOTAwaXRhbGljfFF1YXR0cm9jZW50bytTYW5zOnJlZ3VsYXIsaXRhbGljLDcwMCw3MDBpdGFsaWN8UmVlbStLdWZpOnJlZ3VsYXJ8QXJ2bzpyZWd1bGFyLGl0YWxpYyw3MDAsNzAwaXRhbGljfE92ZXJwYXNzOjEwMCwxMDBpdGFsaWMsMjAwLDIwMGl0YWxpYywzMDAsMzAwaXRhbGljLHJlZ3VsYXIsaXRhbGljLDYwMCw2MDBpdGFsaWMsNzAwLDcwMGl0YWxpYyw4MDAsODAwaXRhbGljLDkwMCw5MDBpdGFsaWN8UmVkK0hhdCtUZXh0OnJlZ3VsYXIsaXRhbGljLDUwMCw1MDBpdGFsaWMsNzAwLDcwMGl0YWxpY3xETStTZXJpZitUZXh0OnJlZ3VsYXIsaXRhbGljfEJsaW5rZXI6MTAwLDIwMCwzMDAscmVndWxhciw2MDAsNzAwLDgwMCw5MDB8QWxlbzozMDAsMzAwaXRhbGljLHJlZ3VsYXIsaXRhbGljLDcwMCw3MDBpdGFsaWN8TnVuaXRvOjIwMCwyMDBpdGFsaWMsMzAwLDMwMGl0YWxpYyxyZWd1bGFyLGl0YWxpYyw2MDAsNjAwaXRhbGljLDcwMCw3MDBpdGFsaWMsODAwLDgwMGl0YWxpYyw5MDAsOTAwaXRhbGljfEtuZXdhdmU6cmVndWxhcnxQYWxhbnF1aW46MTAwLDIwMCwzMDAscmVndWxhciw1MDAsNjAwLDcwMHxQYWxhbnF1aW4rRGFyazpyZWd1bGFyLDUwMCw2MDAsNzAwfFJvYm90bzoxMDAsMTAwaXRhbGljLDMwMCwzMDBpdGFsaWMscmVndWxhcixpdGFsaWMsNTAwLDUwMGl0YWxpYyw3MDAsNzAwaXRhbGljLDkwMCw5MDBpdGFsaWN8T3N3YWxkOjIwMCwzMDAscmVndWxhciw1MDAsNjAwLDcwMHxPeHlnZW46MzAwLHJlZ3VsYXIsNzAwfFBsYXlmYWlyK0Rpc3BsYXk6cmVndWxhcixpdGFsaWMsNzAwLDcwMGl0YWxpYyw5MDAsOTAwaXRhbGljfEZpcmErU2FuczoxMDAsMTAwaXRhbGljLDIwMCwyMDBpdGFsaWMsMzAwLDMwMGl0YWxpYyxyZWd1bGFyLGl0YWxpYyw1MDAsNTAwaXRhbGljLDYwMCw2MDBpdGFsaWMsNzAwLDcwMGl0YWxpYyw4MDAsODAwaXRhbGljLDkwMCw5MDBpdGFsaWN8QWJyaWwrRmF0ZmFjZTpyZWd1bGFyfENvbWZvcnRhYTozMDAscmVndWxhciw1MDAsNjAwLDcwMHxLYXVzaGFuK1NjcmlwdDpyZWd1bGFyJnN1YnNldD1hcmFiaWMsYmVuZ2FsaSxjeXJpbGxpYyxjeXJpbGxpYy1leHQsZGV2YW5hZ2FyaSxncmVlayxncmVlay1leHQsZ3VqYXJhdGksaGVicmV3LGtobWVyLGtvcmVhbixsYXRpbi1leHQsdGFtaWwsdGVsdWd1LHRoYWksdmlldG5hbWVzZSI+PHN0eWxlIGNsYXNzPSJicnotc3R5bGUiPi5icnogLmJyei1mZi1ub3RvX3Nlcmlme2ZvbnQtZmFtaWx5Ok5vdG8gU2VyaWYsIHNlcmlmIWltcG9ydGFudDt9LmJyeiAuYnJ6LWZmLW1vbnRzZXJyYXR7Zm9udC1mYW1pbHk6TW9udHNlcnJhdCwgc2Fucy1zZXJpZiFpbXBvcnRhbnQ7fS5icnogLmJyei1mZi1sYXRve2ZvbnQtZmFtaWx5OkxhdG8sIHNhbnMtc2VyaWYhaW1wb3J0YW50O30uYnJ6IC5icnotZmYtcXVhdHRyb2NlbnRvX3NhbnN7Zm9udC1mYW1pbHk6UXVhdHRyb2NlbnRvIFNhbnMsIHNhbnMtc2VyaWYhaW1wb3J0YW50O30uYnJ6IC5icnotZmYtcmVlbV9rdWZpe2ZvbnQtZmFtaWx5OlJlZW0gS3VmaSwgc2Fucy1zZXJpZiFpbXBvcnRhbnQ7fS5icnogLmJyei1mZi1hcnZve2ZvbnQtZmFtaWx5OkFydm8sIHNlcmlmIWltcG9ydGFudDt9LmJyeiAuYnJ6LWZmLW92ZXJwYXNze2ZvbnQtZmFtaWx5Ok92ZXJwYXNzLCBzYW5zLXNlcmlmIWltcG9ydGFudDt9LmJyeiAuYnJ6LWZmLXJlZF9oYXRfdGV4dHtmb250LWZhbWlseTpSZWQgSGF0IFRleHQsIHNhbnMtc2VyaWYhaW1wb3J0YW50O30uYnJ6IC5icnotZmYtZG1fc2VyaWZfdGV4dHtmb250LWZhbWlseTpETSBTZXJpZiBUZXh0LCBzZXJpZiFpbXBvcnRhbnQ7fS5icnogLmJyei1mZi1ibGlua2Vye2ZvbnQtZmFtaWx5OkJsaW5rZXIsIHNhbnMtc2VyaWYhaW1wb3J0YW50O30uYnJ6IC5icnotZmYtYWxlb3tmb250LWZhbWlseTpBbGVvLCBzZXJpZiFpbXBvcnRhbnQ7fS5icnogLmJyei1mZi1udW5pdG97Zm9udC1mYW1pbHk6TnVuaXRvLCBzYW5zLXNlcmlmIWltcG9ydGFudDt9LmJyeiAuYnJ6LWZmLWtuZXdhdmV7Zm9udC1mYW1pbHk6S25ld2F2ZSwgZGlzcGxheSFpbXBvcnRhbnQ7fS5icnogLmJyei1mZi1wYWxhbnF1aW57Zm9udC1mYW1pbHk6UGFsYW5xdWluLCBzYW5zLXNlcmlmIWltcG9ydGFudDt9LmJyeiAuYnJ6LWZmLXBhbGFucXVpbl9kYXJre2ZvbnQtZmFtaWx5OlBhbGFucXVpbiBEYXJrLCBzYW5zLXNlcmlmIWltcG9ydGFudDt9LmJyeiAuYnJ6LWZmLXJvYm90b3tmb250LWZhbWlseTpSb2JvdG8sIHNhbnMtc2VyaWYhaW1wb3J0YW50O30uYnJ6IC5icnotZmYtb3N3YWxke2ZvbnQtZmFtaWx5Ok9zd2FsZCwgc2Fucy1zZXJpZiFpbXBvcnRhbnQ7fS5icnogLmJyei1mZi1veHlnZW57Zm9udC1mYW1pbHk6T3h5Z2VuLCBzYW5zLXNlcmlmIWltcG9ydGFudDt9LmJyeiAuYnJ6LWZmLXBsYXlmYWlyX2Rpc3BsYXl7Zm9udC1mYW1pbHk6UGxheWZhaXIgRGlzcGxheSwgc2VyaWYhaW1wb3J0YW50O30uYnJ6IC5icnotZmYtZmlyYV9zYW5ze2ZvbnQtZmFtaWx5OkZpcmEgU2Fucywgc2Fucy1zZXJpZiFpbXBvcnRhbnQ7fS5icnogLmJyei1mZi1hYnJpbF9mYXRmYWNle2ZvbnQtZmFtaWx5OkFicmlsIEZhdGZhY2UsIGRpc3BsYXkhaW1wb3J0YW50O30uYnJ6IC5icnotZmYtY29tZm9ydGFhe2ZvbnQtZmFtaWx5OkNvbWZvcnRhYSwgZGlzcGxheSFpbXBvcnRhbnQ7fS5icnogLmJyei1mZi1rYXVzaGFuX3NjcmlwdHtmb250LWZhbWlseTpLYXVzaGFuIFNjcmlwdCwgaGFuZHdyaXRpbmchaW1wb3J0YW50O308L3N0eWxlPjxzdHlsZSBjbGFzcz0iYnJ6LXN0eWxlIj4uYnJ6IC5icnotcm9vdF9fY29udGFpbmVyLC5icnogLmJyei1wb3B1cDIsLmJyeiAuYnJ6LXBvcHVwIHtmb250LWZhbWlseTpMYXRvLCBzYW5zLXNlcmlmIWltcG9ydGFudDt9PC9zdHlsZT48c3R5bGUgY2xhc3M9ImJyei1zdHlsZSIgaWQ9ImN1c3RvbS1jc3MiPjwvc3R5bGU+PC9oZWFkPjxib2R5IGNsYXNzPSJicnoiPjxkaXYgY2xhc3M9ImJyei1yb290X19jb250YWluZXIgYnJ6LXJlc2V0LWFsbCI+PC9kaXY+PC9ib2R5PjwvaHRtbD4=",
+                        "compiled_html_body": null,
+                        "compiled_html_head": null,
+                        "editor_version": "1.0.78",
+                        "compiler_version": "182-wp",
+                        "plugin_version": "1.0.120",
+                        "editor_data": "eyJfaWQiOiJ4aWNocGVqcXhzIiwiaXRlbXMiOltdfQ==",
+                        "brizy-use-brizy": true
+                    }
+                }
+            },
+            {
+                "id": 62,
+                "key": "brizy-post-editor-version",
+                "value": "1.0.78"
+            },
+            {
+                "id": 63,
+                "key": "ocean_post_layout",
+                "value": "full-width"
+            },
+            {
+                "id": 64,
+                "key": "ocean_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 65,
+                "key": "ocean_second_sidebar",
+                "value": "0"
+            },
+            {
+                "id": 66,
+                "key": "ocean_disable_margins",
+                "value": "enable"
+            },
+            {
+                "id": 67,
+                "key": "ocean_display_top_bar",
+                "value": "default"
+            },
+            {
+                "id": 68,
+                "key": "ocean_display_header",
+                "value": "default"
+            },
+            {
+                "id": 69,
+                "key": "ocean_center_header_left_menu",
+                "value": "0"
+            },
+            {
+                "id": 70,
+                "key": "ocean_custom_header_template",
+                "value": "0"
+            },
+            {
+                "id": 71,
+                "key": "ocean_header_custom_menu",
+                "value": "0"
+            },
+            {
+                "id": 72,
+                "key": "ocean_menu_typo_font_family",
+                "value": "0"
+            },
+            {
+                "id": 73,
+                "key": "ocean_disable_title",
+                "value": "on"
+            },
+            {
+                "id": 74,
+                "key": "ocean_disable_heading",
+                "value": "default"
+            },
+            {
+                "id": 75,
+                "key": "ocean_disable_breadcrumbs",
+                "value": "default"
+            },
+            {
+                "id": 76,
+                "key": "ocean_display_footer_widgets",
+                "value": "default"
+            },
+            {
+                "id": 77,
+                "key": "ocean_display_footer_bottom",
+                "value": "default"
+            },
+            {
+                "id": 194,
+                "key": "brizy_post_uid",
+                "value": "21b357272ca34d43e908beeb25c872ce"
+            },
+            {
+                "id": 267,
+                "key": "brizy-post-compiler-version",
+                "value": "182-wp"
+            },
+            {
+                "id": 308,
+                "key": "brizy-bk-Brizy_Admin_Migrations_ShortcodesMobileOneMigration-1.0.39",
+                "value": {
+                    "0": "",
+                    "brizy-post": {
+                        "compiled_html": "    <!DOCTYPE html><html lang=\"en\"><head><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><style></style><style>.brz .brz-cp-color1{color: #191b21;}.brz .brz-cp-color2{color: #142850;}.brz .brz-cp-color3{color: #239ddb;}.brz .brz-cp-color4{color: #66738d;}.brz .brz-cp-color5{color: #bde1f4;}.brz .brz-cp-color6{color: #eef0f2;}.brz .brz-cp-color7{color: #73777f;}.brz .brz-cp-color8{color: #ffffff;}</style><style></style></head><body class=\"brz\"><div class=\"brz-root__container brz-reset-all\"></div></body></html>",
+                        "compiled_html_body": null,
+                        "compiled_html_head": null,
+                        "needs_compile": false,
+                        "editor_version": null,
+                        "compiler_version": "1.0.58",
+                        "editor_data": "",
+                        "brizy-use-brizy": true
+                    }
+                }
+            },
+            {
+                "id": 309,
+                "key": "brizy-migrations",
+                "value": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                ]
+            },
+            {
+                "id": 674,
+                "key": "ocean_custom_footer_template",
+                "value": "0"
+            },
+            {
+                "id": 2505,
+                "key": "rank_math_internal_links_processed",
+                "value": "1"
+            },
+            {
+                "id": 3476,
+                "key": "rank_math_permalink",
+                "value": "fluidtint-sunglasses"
+            },
+            {
+                "id": 3477,
+                "key": "rank_math_primary_product_cat",
+                "value": "0"
+            },
+            {
+                "id": 3478,
+                "key": "rank_math_seo_score",
+                "value": "10"
+            },
+            {
+                "id": 3479,
+                "key": "rank_math_rich_snippet",
+                "value": "product"
+            },
+            {
+                "id": 3480,
+                "key": "rank_math_facebook_enable_image_overlay",
+                "value": "off"
+            },
+            {
+                "id": 3481,
+                "key": "rank_math_facebook_image_overlay",
+                "value": "play"
+            },
+            {
+                "id": 3482,
+                "key": "rank_math_twitter_use_facebook",
+                "value": "on"
+            },
+            {
+                "id": 3483,
+                "key": "rank_math_twitter_card_type",
+                "value": "summary_large_image"
+            },
+            {
+                "id": 3484,
+                "key": "rank_math_twitter_enable_image_overlay",
+                "value": "off"
+            },
+            {
+                "id": 3485,
+                "key": "rank_math_twitter_image_overlay",
+                "value": "play"
+            },
+            {
+                "id": 3489,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 5789,
+                "key": "_seopress_titles_title",
+                "value": ""
+            },
+            {
+                "id": 5790,
+                "key": "_seopress_titles_desc",
+                "value": ""
+            },
+            {
+                "id": 5791,
+                "key": "_seopress_robots_canonical",
+                "value": ""
+            },
+            {
+                "id": 5792,
+                "key": "_seopress_social_fb_title",
+                "value": ""
+            },
+            {
+                "id": 5793,
+                "key": "_seopress_social_fb_desc",
+                "value": ""
+            },
+            {
+                "id": 5794,
+                "key": "_seopress_social_fb_img",
+                "value": ""
+            },
+            {
+                "id": 5795,
+                "key": "_seopress_social_twitter_title",
+                "value": ""
+            },
+            {
+                "id": 5796,
+                "key": "_seopress_social_twitter_desc",
+                "value": ""
+            },
+            {
+                "id": 5797,
+                "key": "_seopress_social_twitter_img",
+                "value": ""
+            },
+            {
+                "id": 5798,
+                "key": "_seopress_redirections_type",
+                "value": "301"
+            },
+            {
+                "id": 5799,
+                "key": "_seopress_redirections_value",
+                "value": ""
+            },
+            {
+                "id": 6839,
+                "key": "swift-performance",
+                "value": {
+                    "include-scripts": [
+                        ""
+                    ]
+                }
+            },
+            {
+                "id": 17176,
+                "key": "brizy-need-compile",
+                "value": "1"
+            },
+            {
+                "id": 21052,
+                "key": "_seopress_analysis_data",
+                "value": {
+                    "title": "FluidTint™ Sunglasses &quot;N-Style&quot; + Hard Case (190 Days Money Back, 1 Year Warranty) - Sanofan",
+                    "meta_desc": "FluidTint™ polarized lenses  automatically maintain the best vision in all  light conditions,  which makes them the first choice for all sight fishing activities like fly fishing and especially trout fishing. This provides you with a true tactical advantage over fellow anglers whose vision is limited by traditional color lenses. But there&#039;s more. Because FluidTint™ color-changing…",
+                    "og_title": {
+                        "count": 1,
+                        "values": [
+                            "FluidTint™ Sunglasses &quot;N-Style&quot; + Hard Case (190 Days Money Back, 1 Year Warranty) - Sanofan"
+                        ]
+                    },
+                    "og_desc": {
+                        "count": 1,
+                        "values": [
+                            "FluidTint™ polarized lenses  automatically maintain the best vision in all  light conditions,  which makes them the first choice for all sight fishing activities like fly fishing and especially trout fishing. This provides you with a true tactical advantage over fellow anglers whose vision is limited by traditional color lenses. But there&#039;s more. Because FluidTint™ color-changing…"
+                        ]
+                    },
+                    "og_img": {
+                        "count": 1,
+                        "values": [
+                            "https://www.sanofan.com/wp-content/uploads/2018/06/sanofan-fishing-glasses-with-case-n-bgWhite-noreflex-square-800w-80_1.jpg"
+                        ]
+                    },
+                    "og_url": {
+                        "count": 1,
+                        "values": [
+                            "https://www.sanofan.com/product/fluidtint-sunglasses/"
+                        ],
+                        "host": "www.sanofan.com"
+                    },
+                    "og_site_name": {
+                        "count": 1,
+                        "values": [
+                            "Sanofan"
+                        ]
+                    },
+                    "tw_title": {
+                        "count": 1,
+                        "values": [
+                            "FluidTint™ Sunglasses &quot;N-Style&quot; + Hard Case (190 Days Money Back, 1 Year Warranty) - Sanofan"
+                        ]
+                    },
+                    "tw_desc": {
+                        "count": 1,
+                        "values": [
+                            "FluidTint™ polarized lenses  automatically maintain the best vision in all  light conditions,  which makes them the first choice for all sight fishing activities like fly fishing and especially trout fishing. This provides you with a true tactical advantage over fellow anglers whose vision is limited by traditional color lenses. But there&#039;s more. Because FluidTint™ color-changing…"
+                        ]
+                    },
+                    "tw_img": {
+                        "count": 1,
+                        "values": [
+                            "https://www.sanofan.com/wp-content/uploads/2018/06/sanofan-fishing-glasses-with-case-n-bgWhite-noreflex-square-800w-80_1.jpg"
+                        ]
+                    },
+                    "h1": {
+                        "nomatches": {
+                            "count": 1
+                        }
+                    },
+                    "img": {
+                        "images": [
+                            "https://www.sanofan.com/wp-content/uploads/2020/02/site-logo-sanofan-1-4.png",
+                            "https://www.sanofan.com/wp-content/uploads/2018/06/sanofan-fishing-glasses-with-case-n-bgWhite-noreflex-square-800w-80_1-600x600.jpg",
+                            "https://www.sanofan.com/wp-content/uploads/2019/10/fluidtint-color-changing-fishing-sunglasses-activated-3-2190x2190-600x600.jpg",
+                            "https://www.sanofan.com/wp-content/uploads/2019/06/photochromic-and-polarized-sunglasses-left-view_square_shopping-600x600.jpg",
+                            "https://www.sanofan.com/wp-content/uploads/2019/06/photochromic-and-polarized-sunglasses-back-view_square_shopping-600x600.jpg",
+                            "https://www.sanofan.com/wp-content/uploads/2020/02/site-logo-sanofan-1-4.png"
+                        ]
+                    },
+                    "meta_robots": [
+                        [
+                            "follow, noindex"
+                        ]
+                    ],
+                    "words_counter": 90,
+                    "words_counter_unique": 75,
+                    "json": [
+                        "Organization",
+                        "Product"
+                    ],
+                    "score": false
+                }
+            },
+            {
+                "id": 59255,
+                "key": "_seopress_robots_index",
+                "value": "yes"
+            },
+            {
+                "id": 62205,
+                "key": "_judgeme_widget_preview_badge",
+                "value": {
+                    "badge": "<div style='display:none' class='jdgm-prev-badge' data-average-rating='4.88' data-number-of-reviews='113' data-number-of-questions='0'> <span class='jdgm-prev-badge__stars' data-score='4.88' tabindex='0' aria-label='4.88 stars' role='button'> <span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span> </span> <span class='jdgm-prev-badge__text'> 113 reviews </span> </div>",
+                    "product_external_id": 13,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            },
+            {
+                "id": 62206,
+                "key": "_judgeme_widget_review_widget",
+                "value": {
+                    "widget": "<div class='jdgm-rev-widg' data-average-rating='4.88' data-number-of-reviews='113' data-number-of-questions='0'> <style class='jdgm-temp-hiding-style'>.jdgm-rev-widg{ display: none }</style> <div class='jdgm-rev-widg__header'> <h2 class='jdgm-rev-widg__title'>Customer Reviews</h2>   <div class='jdgm-rich-snippet' itemprop='aggregateRating' itemscope itemtype='http://schema.org/AggregateRating'> <meta itemprop='reviewCount' content='113'> <meta itemprop='ratingValue' content='4.88'> </div>   <div class='jdgm-rev-widg__summary'> <div class='jdgm-rev-widg__summary-stars' aria-label='Average rating is 4.88 stars' role='img'> <a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a> </div> <div class='jdgm-rev-widg__summary-text'>Based on 113 reviews</div> </div> <a style='display: none' href='#' class='jdgm-write-rev-link' role='button'>Write a review</a> <div class='jdgm-histogram jdgm-temp-hidden'>  <div class='jdgm-histogram__row' data-rating='5' data-frequency='106' data-percentage='94'>  <div class='jdgm-histogram__star' role='button' aria-label=\"94% (106) reviews with 5 star rating\"  tabindex='0' ><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 94%;'> </div> </div> <div class='jdgm-histogram__percentage'>94%</div> <div class='jdgm-histogram__frequency'>(106)</div> </div>  <div class='jdgm-histogram__row' data-rating='4' data-frequency='4' data-percentage='4'>  <div class='jdgm-histogram__star' role='button' aria-label=\"4% (4) reviews with 4 star rating\"  tabindex='0' ><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--off'></span></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 4%;'> </div> </div> <div class='jdgm-histogram__percentage'>4%</div> <div class='jdgm-histogram__frequency'>(4)</div> </div>  <div class='jdgm-histogram__row' data-rating='3' data-frequency='1' data-percentage='1'>  <div class='jdgm-histogram__star' role='button' aria-label=\"1% (1) reviews with 3 star rating\"  tabindex='0' ><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 1%;'> </div> </div> <div class='jdgm-histogram__percentage'>1%</div> <div class='jdgm-histogram__frequency'>(1)</div> </div>  <div class='jdgm-histogram__row' data-rating='2' data-frequency='0' data-percentage='0'>  <div class='jdgm-histogram__star' role='button' aria-label=\"0% (0) reviews with 2 star rating\"  tabindex='0' ><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 0%;'> </div> </div> <div class='jdgm-histogram__percentage'>0%</div> <div class='jdgm-histogram__frequency'>(0)</div> </div>  <div class='jdgm-histogram__row' data-rating='1' data-frequency='2' data-percentage='2'>  <div class='jdgm-histogram__star' role='button' aria-label=\"2% (2) reviews with 1 star rating\"  tabindex='0' ><span class='jdgm-star jdgm--on'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span><span class='jdgm-star jdgm--off'></span></div> <div class='jdgm-histogram__bar'> <div class='jdgm-histogram__bar-content' style='width: 2%;'> </div> </div> <div class='jdgm-histogram__percentage'>2%</div> <div class='jdgm-histogram__frequency'>(2)</div> </div>  <div class='jdgm-histogram__row jdgm-histogram__clear-filter' data-rating=null tabindex='0'></div> </div> <div class='jdgm-rev-widg__sort-wrapper'></div> </div> <div class='jdgm-rev-widg__body'> <div class='jdgm-rev-widg__reviews'><div class='jdgm-rev jdgm-divider-top' data-verified-buyer='true' data-review-id='3f1dd1b6-82d4-410e-9b31-026d725c76b6' data-product-title='FluidTint™ Sunglasses &quot;N-Style&quot; + Hard Case (190 Days Money Back, 1 Year Warranty)' data-product-url='/product/fluidtint-sunglasses/' data-thumb-up-count='0' data-thumb-down-count='0'> <div class='jdgm-rev__header'>  <div class='jdgm-rev__icon' > R </div>  <span class='jdgm-rev__rating' data-score='5' tabindex='0' aria-label='5 star review' role='img'> <a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a> </span> <span class='jdgm-rev__timestamp jdgm-spinner' data-content='2021-08-30 11:58:34 UTC'> </span> <div class='jdgm-rev__br'></div> <span class='jdgm-rev__buyer-badge-wrapper'>  <span class='jdgm-rev__buyer-badge'></span>  </span> <span class='jdgm-rev__author-wrapper'> <span class='jdgm-rev__author'>Robert Ivanov</span> <span class='jdgm-rev__location'>(Melbourne, US)</span> </span> </div> <div class='jdgm-rev__content'> <div class='jdgm-rev__custom-form'>  </div> <b class='jdgm-rev__title'>Best pair of sunglasses</b> <div class='jdgm-rev__body'><p>I was skeptical about the claims and only ordered one pair when I should have ordered a 2 pair I will be ordering more in the future. There amazingly clear. vision.</p></div> <div class='jdgm-rev__pics'>  </div> <div class='jdgm-rev__vids'>   </div> </div> <div class='jdgm-rev__actions'> <div class='jdgm-rev__social'></div> <div class='jdgm-rev__votes'></div> </div> <div class='jdgm-rev__reply'>  </div> </div><div class='jdgm-rev jdgm-divider-top' data-verified-buyer='true' data-review-id='bf45b9eb-44e8-4e9e-bc6e-1a285514a737' data-product-title='FluidTint™ Sunglasses &quot;N-Style&quot; + Hard Case (190 Days Money Back, 1 Year Warranty)' data-product-url='/product/fluidtint-sunglasses/' data-thumb-up-count='0' data-thumb-down-count='0'> <div class='jdgm-rev__header'>  <div class='jdgm-rev__icon' > S </div>  <span class='jdgm-rev__rating' data-score='5' tabindex='0' aria-label='5 star review' role='img'> <a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a> </span> <span class='jdgm-rev__timestamp jdgm-spinner' data-content='2021-08-30 05:03:23 UTC'> </span> <div class='jdgm-rev__br'></div> <span class='jdgm-rev__buyer-badge-wrapper'>  <span class='jdgm-rev__buyer-badge'></span>  </span> <span class='jdgm-rev__author-wrapper'> <span class='jdgm-rev__author'>Stephen Cafaro</span> <span class='jdgm-rev__location'>(Allison Park, US)</span> </span> </div> <div class='jdgm-rev__content'> <div class='jdgm-rev__custom-form'>  </div> <b class='jdgm-rev__title'>Just what I was looking for.</b> <div class='jdgm-rev__body'><p>I use these for fishing primarily in trout steams.  The lenses in these glasses work perfectly in the low level morning and evening light and they transition darker in the high level afternoon light. Bottom line.. I only need one pair of glasses to allow me all day coverage for spotting fish and also maneuvering through rocky stream beds.   So glad I found them!</p></div> <div class='jdgm-rev__pics'>  </div> <div class='jdgm-rev__vids'>   </div> </div> <div class='jdgm-rev__actions'> <div class='jdgm-rev__social'></div> <div class='jdgm-rev__votes'></div> </div> <div class='jdgm-rev__reply'>  </div> </div><div class='jdgm-rev jdgm-divider-top' data-verified-buyer='true' data-review-id='25ee30bc-e6d1-4b5f-a5a7-187852e54fd2' data-product-title='FluidTint™ Sunglasses &quot;N-Style&quot; + Hard Case (190 Days Money Back, 1 Year Warranty)' data-product-url='/product/fluidtint-sunglasses/' data-thumb-up-count='0' data-thumb-down-count='0'> <div class='jdgm-rev__header'>  <div class='jdgm-rev__icon' > T </div>  <span class='jdgm-rev__rating' data-score='5' tabindex='0' aria-label='5 star review' role='img'> <a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a> </span> <span class='jdgm-rev__timestamp jdgm-spinner' data-content='2021-08-26 01:19:09 UTC'> </span> <div class='jdgm-rev__br'></div> <span class='jdgm-rev__buyer-badge-wrapper'>  <span class='jdgm-rev__buyer-badge'></span>  </span> <span class='jdgm-rev__author-wrapper'> <span class='jdgm-rev__author'>Tim Fuller</span> <span class='jdgm-rev__location'>(Hamilton, NZ)</span> </span> </div> <div class='jdgm-rev__content'> <div class='jdgm-rev__custom-form'>  </div> <b class='jdgm-rev__title'>Polaroid fishing glasses</b> <div class='jdgm-rev__body'><p>Awesome pair of specs. Changelight function is brilliant when traversing light/dark/shadow ares. Quick to function and comfortable</p></div> <div class='jdgm-rev__pics'>  </div> <div class='jdgm-rev__vids'>   </div> </div> <div class='jdgm-rev__actions'> <div class='jdgm-rev__social'></div> <div class='jdgm-rev__votes'></div> </div> <div class='jdgm-rev__reply'>  </div> </div><div class='jdgm-rev jdgm-divider-top' data-verified-buyer='true' data-review-id='137cf12c-0b71-4fb8-a055-553bffb56cf6' data-product-title='FluidTint™ Sunglasses &quot;N-Style&quot; + Hard Case (190 Days Money Back, 1 Year Warranty)' data-product-url='/product/fluidtint-sunglasses/' data-thumb-up-count='0' data-thumb-down-count='0'> <div class='jdgm-rev__header'>  <div class='jdgm-rev__icon' > B </div>  <span class='jdgm-rev__rating' data-score='5' tabindex='0' aria-label='5 star review' role='img'> <a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a> </span> <span class='jdgm-rev__timestamp jdgm-spinner' data-content='2021-08-24 14:03:04 UTC'> </span> <div class='jdgm-rev__br'></div> <span class='jdgm-rev__buyer-badge-wrapper'>  <span class='jdgm-rev__buyer-badge'></span>  </span> <span class='jdgm-rev__author-wrapper'> <span class='jdgm-rev__author'>Bill Shoning</span> <span class='jdgm-rev__location'></span> </span> </div> <div class='jdgm-rev__content'> <div class='jdgm-rev__custom-form'>  </div> <b class='jdgm-rev__title'>Satisfied</b> <div class='jdgm-rev__body'><p>At this time I have not had an opportunity to use my new sunglasses fishing. I find myself using them on a daily basis. They very comfortable and I most of time I forget I have them on. The transition from light to dark works great. Everything looks more vivid through the lens.</p></div> <div class='jdgm-rev__pics'>  </div> <div class='jdgm-rev__vids'>   </div> </div> <div class='jdgm-rev__actions'> <div class='jdgm-rev__social'></div> <div class='jdgm-rev__votes'></div> </div> <div class='jdgm-rev__reply'>  </div> </div><div class='jdgm-rev jdgm-divider-top' data-verified-buyer='true' data-review-id='e61e3e39-d0f1-4cb2-976e-8bd853023e86' data-product-title='FluidTint™ Sunglasses &quot;N-Style&quot; + Hard Case (190 Days Money Back, 1 Year Warranty)' data-product-url='/product/fluidtint-sunglasses/' data-thumb-up-count='0' data-thumb-down-count='0'> <div class='jdgm-rev__header'>  <div class='jdgm-rev__icon' > F </div>  <span class='jdgm-rev__rating' data-score='5' tabindex='0' aria-label='5 star review' role='img'> <a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a><a class='jdgm-star jdgm--on'></a> </span> <span class='jdgm-rev__timestamp jdgm-spinner' data-content='2021-08-24 12:02:27 UTC'> </span> <div class='jdgm-rev__br'></div> <span class='jdgm-rev__buyer-badge-wrapper'>  <span class='jdgm-rev__buyer-badge'></span>  </span> <span class='jdgm-rev__author-wrapper'> <span class='jdgm-rev__author'>Faye Bartley</span> <span class='jdgm-rev__location'>(Bloomington, US)</span> </span> </div> <div class='jdgm-rev__content'> <div class='jdgm-rev__custom-form'>  </div> <b class='jdgm-rev__title'></b> <div class='jdgm-rev__body'><p>I'm not a fisherman but the sun glasses are great for playing golf and driving.  I give them a five star rating.</p></div> <div class='jdgm-rev__pics'>  </div> <div class='jdgm-rev__vids'>   </div> </div> <div class='jdgm-rev__actions'> <div class='jdgm-rev__social'></div> <div class='jdgm-rev__votes'></div> </div> <div class='jdgm-rev__reply'>  </div> </div></div> <div class='jdgm-paginate' data-per-page='5' data-url='https://judge.me/reviews/reviews_for_widget'><a class='jdgm-paginate__page jdgm-curt' data-page='1' aria-label='Page 1' tabindex='0'  role='button'>1</a><a class='jdgm-paginate__page ' data-page='2' aria-label='Page 2' tabindex='0'  role='button'>2</a><a class='jdgm-paginate__page ' data-page='3' aria-label='Page 3' tabindex='0'  role='button'>3</a><a class='jdgm-paginate__page jdgm-paginate__next-page' data-page='2' aria-label='Page 2' tabindex='0' rel='next' role='button'></a><a class='jdgm-paginate__page jdgm-paginate__last-page' data-page='23' aria-label='Page 23' tabindex='0'  role='button'></a></div> </div> <div class='jdgm-rev-widg__paginate-spinner-wrapper'> <div class='jdgm-spinner'></div> </div> </div>",
+                    "product_external_id": 13,
+                    "shop_domain": "www.sanofan.com",
+                    "platform": "woocommerce"
+                }
+            },
+            {
+                "id": 68629,
+                "key": "_judgeme_api_registered",
+                "value": "1"
+            },
+            {
+                "id": 70480,
+                "key": "_seopress_robots_primary_cat",
+                "value": "none"
+            },
+            {
+                "id": 110616,
+                "key": "thrive_element_visibility",
+                "value": []
+            },
+            {
+                "id": 112906,
+                "key": "brizy-post-plugin-version",
+                "value": "1.0.120"
+            },
+            {
+                "id": 118680,
+                "key": "tve_global_scripts",
+                "value": {
+                    "head": "",
+                    "body": "",
+                    "footer": ""
+                }
+            },
+            {
+                "id": 129172,
+                "key": "tcb2_ready",
+                "value": "1"
+            },
+            {
+                "id": 141288,
+                "key": "brizy_attachment_focal_point",
+                "value": {
+                    "x": 50,
+                    "y": 50
+                }
+            },
+            {
+                "id": 142942,
+                "key": "brizy_enabled",
+                "value": "0"
+            },
+            {
+                "id": 143396,
+                "key": "cartflows_redirect_flow_id",
+                "value": ""
+            },
+            {
+                "id": 143397,
+                "key": "cartflows_add_to_cart_text",
+                "value": ""
+            },
+            {
+                "id": 174006,
+                "key": "_seopress_analysis_target_kw",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "brizy_media": [
+            {
+                "id": 77,
+                "url": "https://www.sanofan.com/wp-content/uploads/brizy/13/assets/images/18789c4866b71d67f71033c5ad41d975.jpg",
+                "name": "?attachment_id=77",
+                "meta": {
+                    "brizy_attachment_uid": "18789c4866b71d67f71033c5ad41d975.jpg",
+                    "brizy_post_uid": [
+                        "21b357272ca34d43e908beeb25c872ce"
+                    ]
+                }
+            },
+            {
+                "id": 78,
+                "url": "https://www.sanofan.com/wp-content/uploads/brizy/13/assets/images/c81e546dfad9d222474cdbbc2d043b1c.jpg",
+                "name": "?attachment_id=78",
+                "meta": {
+                    "brizy_attachment_uid": "c81e546dfad9d222474cdbbc2d043b1c.jpg",
+                    "brizy_post_uid": [
+                        "21b357272ca34d43e908beeb25c872ce"
+                    ]
+                }
+            },
+            {
+                "id": 79,
+                "url": "https://www.sanofan.com/wp-content/uploads/brizy/13/assets/images/050a045ffa18cd2d6a9420493736d2d3.jpg",
+                "name": "?attachment_id=79",
+                "meta": {
+                    "brizy_attachment_uid": "050a045ffa18cd2d6a9420493736d2d3.jpg",
+                    "brizy_post_uid": [
+                        "21b357272ca34d43e908beeb25c872ce"
+                    ]
+                }
+            },
+            {
+                "id": 80,
+                "url": "https://www.sanofan.com/wp-content/uploads/brizy/13/assets/images/063e032b9f49f5ab5170192cb48adb4a.jpg",
+                "name": "?attachment_id=80",
+                "meta": {
+                    "brizy_attachment_uid": "063e032b9f49f5ab5170192cb48adb4a.jpg",
+                    "brizy_post_uid": [
+                        "21b357272ca34d43e908beeb25c872ce"
+                    ]
+                }
+            },
+            {
+                "id": 81,
+                "url": "https://www.sanofan.com/wp-content/uploads/brizy/13/assets/images/02cdd7e676fccb38ee0adf719609d350.jpg",
+                "name": "?attachment_id=81",
+                "meta": {
+                    "brizy_attachment_uid": "02cdd7e676fccb38ee0adf719609d350.jpg",
+                    "brizy_post_uid": [
+                        "21b357272ca34d43e908beeb25c872ce",
+                        "0c5a29d308cd615817b6b628c7b06594"
+                    ]
+                }
+            },
+            {
+                "id": 82,
+                "url": "https://www.sanofan.com/wp-content/uploads/brizy/13/assets/images/69bb3c5e4a521bff2cd0aea3f2193401.jpg",
+                "name": "?attachment_id=82",
+                "meta": {
+                    "brizy_attachment_uid": "69bb3c5e4a521bff2cd0aea3f2193401.jpg",
+                    "brizy_post_uid": [
+                        "21b357272ca34d43e908beeb25c872ce"
+                    ]
+                }
+            }
+        ],
+        "brizy_attachment_focal_point": {
+            "x": 50,
+            "y": 50
+        },
+        "_links": {
+            "self": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products/13"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://www.sanofan.com/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    }
+]

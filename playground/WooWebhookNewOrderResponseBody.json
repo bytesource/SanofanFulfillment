@@ -1,0 +1,131 @@
+{
+  "id": 1686,
+  "parent_id": 0,
+  "status": "processing",
+  "currency": "USD",
+  "version": "5.5.2",
+  "prices_include_tax": false,
+  "date_created": "2021-08-02T10:40:23",
+  "date_modified": "2021-08-02T10:40:24",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00", 
+  "cart_tax": "0.00", 
+  "total": "59.00", 
+  "total_tax": "0.00",
+  "customer_id": 1,
+  "order_key": "wc_order_Esc2hZRC6KFYJ",
+  "billing": {
+    "first_name": "larSon",
+    "last_name": "Ödzdemir Über",
+    "company": "",
+    "address_1": "Mäh-Möh Straße 889",
+    "address_2": "",
+    "city": "Toronto",
+    "state": "",
+    "postcode": "1234",
+    "country": "NZ",
+    "email": "stefan.rohlfing@gmail.com",
+    "phone": "+55646 3442(314)"
+  },
+  "shipping": {
+    "first_name": "larSon",
+    "last_name": "Ödzdemir Über",
+    "company": "",
+    "address_1": "Mäh-Möh Straße 889",
+    "address_2": "",
+    "city": "Toronto",
+    "state": "",
+    "postcode": "1234",
+    "country": "NZ"
+  },
+  "payment_method": "cod",
+  "payment_method_title": "Cash on delivery",
+  "transaction_id": "",
+  "customer_ip_address": "161.117.89.42",
+  "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": null,
+  "date_paid": null,
+  "cart_hash": "9c82bad249e935dded4e7ecad07ea225",
+  "number": "1686",
+  "meta_data": [
+    {
+      "id": 11464,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 11469,
+      "key": "_new_order_email_sent",
+      "value": "true"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 155,
+      "name": "Polartinted Outdoor Glasses",
+      "product_id": 8,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "59.00",
+      "subtotal_tax": "0.00",
+      "total": "59.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [],
+      "sku": "SAN-2874",
+      "price": 59,
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 156,
+      "method_title": "Free shipping",
+      "method_id": "free_shipping",
+      "instance_id": "2",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 1177,
+          "key": "Items",
+          "value": "Polartinted Outdoor Glasses &times; 1",
+          "display_key": "Items",
+          "display_value": "Polartinted Outdoor Glasses &times; 1"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "date_created_gmt": "2021-08-02T02:40:23",
+  "date_modified_gmt": "2021-08-02T02:40:24",
+  "date_completed_gmt": null,
+  "date_paid_gmt": null,
+  "currency_symbol": "$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://woocommerce-130476-456889.cloudwaysapps.com/wp-json/wc/v3/orders/1686"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://woocommerce-130476-456889.cloudwaysapps.com/wp-json/wc/v3/orders"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://woocommerce-130476-456889.cloudwaysapps.com/wp-json/wc/v3/customers/1"
+      }
+    ]
+  }
+}
